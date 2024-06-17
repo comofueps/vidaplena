@@ -1,0 +1,7211 @@
+[
+    {
+        "name": "Pollo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fats": 3.6
+            },
+            "muslo": {
+                "calorie": 184,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 8.0
+            },
+            "ala": {
+                "calorie": 203,
+                "protein": 30,
+                "carbs": 0,
+                "fats": 11.0
+            },
+            "trozo": {
+                "calorie": 172,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 5.0
+            },
+            "filete": {
+                "calorie": 160,
+                "protein": 32,
+                "carbs": 0,
+                "fats": 3.0
+            }
+        }
+    },
+    {
+        "name": "Carne",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 250,
+                "protein": 26,
+                "carbs": 0,
+                "fats": 15
+            },
+            "tajada": {
+                "calorie": 230,
+                "protein": 24,
+                "carbs": 0,
+                "fats": 14
+            },
+            "trozo": {
+                "calorie": 260,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 16
+            },
+            "picada": {
+                "calorie": 240,
+                "protein": 25,
+                "carbs": 0,
+                "fats": 13
+            },
+            "molida": {
+                "calorie": 270,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 17
+            }
+        }
+    },
+    {
+        "name": "Pescado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 206,
+                "protein": 22,
+                "carbs": 0,
+                "fats": 12
+            },
+            "lomo": {
+                "calorie": 190,
+                "protein": 23,
+                "carbs": 0,
+                "fats": 10
+            },
+            "rodaja": {
+                "calorie": 210,
+                "protein": 21,
+                "carbs": 0,
+                "fats": 13
+            },
+            "tajada": {
+                "calorie": 200,
+                "protein": 24,
+                "carbs": 0,
+                "fats": 11
+            },
+            "entero": {
+                "calorie": 216,
+                "protein": 20,
+                "carbs": 0,
+                "fats": 14
+            }
+        }
+    },
+    {
+        "name": "Atún",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "lata": {
+                "calorie": 144,
+                "protein": 23,
+                "carbs": 0,
+                "fats": 4.9
+            },
+            "porción": {
+                "calorie": 130,
+                "protein": 22,
+                "carbs": 0,
+                "fats": 4.5
+            },
+            "tajada": {
+                "calorie": 150,
+                "protein": 24,
+                "carbs": 0,
+                "fats": 5.2
+            },
+            "trozo": {
+                "calorie": 140,
+                "protein": 23,
+                "carbs": 0,
+                "fats": 4.6
+            }
+        }
+    },
+    {
+        "name": "Huevo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 155,
+                "protein": 13,
+                "carbs": 1.1,
+                "fats": 11
+            },
+            "clara": {
+                "calorie": 52,
+                "protein": 11,
+                "carbs": 0.7,
+                "fats": 0.2
+            },
+            "yema": {
+                "calorie": 322,
+                "protein": 16,
+                "carbs": 3.6,
+                "fats": 27
+            }
+        }
+    },
+    {
+        "name": "Pavo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 189,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 7
+            },
+            "muslo": {
+                "calorie": 200,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 10
+            },
+            "filete": {
+                "calorie": 175,
+                "protein": 30,
+                "carbs": 0,
+                "fats": 6
+            },
+            "tajada": {
+                "calorie": 190,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 7.5
+            },
+            "trozo": {
+                "calorie": 180,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 6.5
+            }
+        }
+    },
+    {
+        "name": "Chocolate",
+        "category": "Grasas",
+        "measurementUnits": {
+            "barra": {
+                "calorie": 546,
+                "protein": 5,
+                "carbs": 61,
+                "fats": 31
+            },
+            "cuadrado": {
+                "calorie": 70,
+                "protein": 0.7,
+                "carbs": 7.8,
+                "fats": 4
+            },
+            "rallado": {
+                "calorie": 550,
+                "protein": 5.2,
+                "carbs": 60,
+                "fats": 33
+            },
+            "cucharada de polvo": {
+                "calorie": 60,
+                "protein": 1.5,
+                "carbs": 15,
+                "fats": 3.5
+            }
+        }
+    },
+    {
+        "name": "Leche",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 42,
+                "protein": 3.4,
+                "carbs": 5,
+                "fats": 1
+            },
+            "taza": {
+                "calorie": 84,
+                "protein": 6.8,
+                "carbs": 10,
+                "fats": 2
+            },
+            "cucharada": {
+                "calorie": 5,
+                "protein": 0.4,
+                "carbs": 0.6,
+                "fats": 0.1
+            },
+            "botella": {
+                "calorie": 336,
+                "protein": 27.2,
+                "carbs": 40,
+                "fats": 8
+            }
+        }
+    },
+    {
+        "name": "Yogurt",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 59,
+                "protein": 10,
+                "carbs": 3.6,
+                "fats": 0.4
+            },
+            "pote": {
+                "calorie": 118,
+                "protein": 20,
+                "carbs": 7.2,
+                "fats": 0.8
+            },
+            "cucharada": {
+                "calorie": 7,
+                "protein": 1.25,
+                "carbs": 0.45,
+                "fats": 0.05
+            },
+            "bol": {
+                "calorie": 236,
+                "protein": 40,
+                "carbs": 14.4,
+                "fats": 1.6
+            }
+        }
+    },
+    {
+        "name": "Queso Blanco",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 264,
+                "protein": 25,
+                "carbs": 1.3,
+                "fats": 20
+            },
+            "trozo": {
+                "calorie": 330,
+                "protein": 31.25,
+                "carbs": 1.62,
+                "fats": 25
+            },
+            "cubito": {
+                "calorie": 66,
+                "protein": 5,
+                "carbs": 0.26,
+                "fats": 4
+            },
+            "loncha": {
+                "calorie": 132,
+                "protein": 10,
+                "carbs": 0.52,
+                "fats": 8
+            }
+        }
+    },
+    {
+        "name": "Queso Amarillo",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 403,
+                "protein": 25,
+                "carbs": 1.3,
+                "fats": 33
+            },
+            "trozo": {
+                "calorie": 504,
+                "protein": 31.25,
+                "carbs": 1.62,
+                "fats": 41.25
+            },
+            "cubito": {
+                "calorie": 80,
+                "protein": 5,
+                "carbs": 0.26,
+                "fats": 4.12
+            },
+            "loncha": {
+                "calorie": 161,
+                "protein": 10,
+                "carbs": 0.52,
+                "fats": 16.5
+            }
+        }
+    },
+    {
+        "name": "Cerdo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "chuleta": {
+                "calorie": 242,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 14
+            },
+            "costilla": {
+                "calorie": 275,
+                "protein": 24,
+                "carbs": 0,
+                "fats": 20
+            },
+            "lomo": {
+                "calorie": 220,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 12
+            },
+            "tajada": {
+                "calorie": 250,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 15
+            },
+            "trozo": {
+                "calorie": 260,
+                "protein": 25,
+                "carbs": 0,
+                "fats": 18
+            }
+        }
+    },
+    {
+        "name": "Jamón",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 145,
+                "protein": 21,
+                "carbs": 1.4,
+                "fats": 7
+            },
+            "tajada": {
+                "calorie": 160,
+                "protein": 23,
+                "carbs": 1.5,
+                "fats": 8
+            },
+            "loncha": {
+                "calorie": 130,
+                "protein": 20,
+                "carbs": 1.2,
+                "fats": 6
+            },
+            "trozo": {
+                "calorie": 155,
+                "protein": 22,
+                "carbs": 1.3,
+                "fats": 7.5
+            }
+        }
+    },
+    {
+        "name": "Tofu",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "bloque": {
+                "calorie": 76,
+                "protein": 8,
+                "carbs": 1.9,
+                "fats": 4.8
+            },
+            "rebanada": {
+                "calorie": 38,
+                "protein": 4,
+                "carbs": 0.95,
+                "fats": 2.4
+            },
+            "trozo": {
+                "calorie": 45,
+                "protein": 5,
+                "carbs": 1.1,
+                "fats": 2.8
+            },
+            "cubito": {
+                "calorie": 15,
+                "protein": 2,
+                "carbs": 0.5,
+                "fats": 1.2
+            }
+        }
+    },
+    {
+        "name": "Carne de Soya",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "trozo": {
+                "calorie": 336,
+                "protein": 52,
+                "carbs": 33,
+                "fats": 1
+            },
+            "bolita": {
+                "calorie": 300,
+                "protein": 46,
+                "carbs": 29,
+                "fats": 0.9
+            },
+            "porción": {
+                "calorie": 350,
+                "protein": 55,
+                "carbs": 35,
+                "fats": 1.1
+            }
+        }
+    },
+    {
+        "name": "Tempeh",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "bloque": {
+                "calorie": 195,
+                "protein": 20.3,
+                "carbs": 9.4,
+                "fats": 11
+            },
+            "rebanada": {
+                "calorie": 98,
+                "protein": 10.15,
+                "carbs": 4.7,
+                "fats": 5.5
+            },
+            "trozo": {
+                "calorie": 180,
+                "protein": 18,
+                "carbs": 8.5,
+                "fats": 10
+            }
+        }
+    },
+    {
+        "name": "Seitán",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 370,
+                "protein": 75,
+                "carbs": 14,
+                "fats": 1.9
+            },
+            "trozo": {
+                "calorie": 400,
+                "protein": 80,
+                "carbs": 15,
+                "fats": 2.1
+            },
+            "porción": {
+                "calorie": 340,
+                "protein": 70,
+                "carbs": 13,
+                "fats": 1.7
+            }
+        }
+    },
+    {
+        "name": "Proteína en Polvo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 400,
+                "protein": 80,
+                "carbs": 7,
+                "fats": 3
+            },
+            "scoop": {
+                "calorie": 350,
+                "protein": 70,
+                "carbs": 6,
+                "fats": 2.5
+            },
+            "porción": {
+                "calorie": 450,
+                "protein": 90,
+                "carbs": 8,
+                "fats": 3.5
+            }
+        }
+    },
+    {
+        "name": "Arroz",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 130,
+                "protein": 2.7,
+                "carbs": 28,
+                "fats": 0.3
+            },
+            "puñado": {
+                "calorie": 70,
+                "protein": 1.5,
+                "carbs": 15,
+                "fats": 0.15
+            },
+            "cucharada": {
+                "calorie": 30,
+                "protein": 0.7,
+                "carbs": 6,
+                "fats": 0.07
+            },
+            "bol": {
+                "calorie": 200,
+                "protein": 4.1,
+                "carbs": 42,
+                "fats": 0.45
+            }
+        }
+    },
+    {
+        "name": "Papa",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 77,
+                "protein": 2,
+                "carbs": 17,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 40,
+                "protein": 1,
+                "carbs": 8.5,
+                "fats": 0.05
+            },
+            "trozo": {
+                "calorie": 50,
+                "protein": 1.5,
+                "carbs": 11,
+                "fats": 0.07
+            },
+            "media papa": {
+                "calorie": 38.5,
+                "protein": 1,
+                "carbs": 8.5,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Batata",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 86,
+                "protein": 1.6,
+                "carbs": 20,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 43,
+                "protein": 0.8,
+                "carbs": 10,
+                "fats": 0.05
+            },
+            "trozo": {
+                "calorie": 60,
+                "protein": 1.2,
+                "carbs": 15,
+                "fats": 0.07
+            },
+            "media batata": {
+                "calorie": 43,
+                "protein": 0.8,
+                "carbs": 10,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Yuca",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "trozo": {
+                "calorie": 160,
+                "protein": 1.4,
+                "carbs": 38,
+                "fats": 0.3
+            },
+            "rodaja": {
+                "calorie": 80,
+                "protein": 0.7,
+                "carbs": 19,
+                "fats": 0.15
+            },
+            "porción": {
+                "calorie": 200,
+                "protein": 1.8,
+                "carbs": 47,
+                "fats": 0.4
+            },
+            "media yuca": {
+                "calorie": 80,
+                "protein": 0.7,
+                "carbs": 19,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Lentejas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 116,
+                "protein": 9,
+                "carbs": 20,
+                "fats": 0.4
+            },
+            "cucharada": {
+                "calorie": 30,
+                "protein": 2.3,
+                "carbs": 5,
+                "fats": 0.1
+            },
+            "puñado": {
+                "calorie": 50,
+                "protein": 3.8,
+                "carbs": 8.4,
+                "fats": 0.17
+            },
+            "bol": {
+                "calorie": 150,
+                "protein": 11.5,
+                "carbs": 25,
+                "fats": 0.5
+            }
+        }
+    },
+    {
+        "name": "Frijoles",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 347,
+                "protein": 21,
+                "carbs": 63,
+                "fats": 1.2
+            },
+            "cucharada": {
+                "calorie": 85,
+                "protein": 5.2,
+                "carbs": 15.7,
+                "fats": 0.3
+            },
+            "puñado": {
+                "calorie": 150,
+                "protein": 9,
+                "carbs": 27,
+                "fats": 0.5
+            },
+            "bol": {
+                "calorie": 400,
+                "protein": 24,
+                "carbs": 72,
+                "fats": 1.4
+            }
+        }
+    },
+    {
+        "name": "Garbanzos",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 364,
+                "protein": 19,
+                "carbs": 61,
+                "fats": 6
+            },
+            "cucharada": {
+                "calorie": 90,
+                "protein": 4.7,
+                "carbs": 15.2,
+                "fats": 1.5
+            },
+            "puñado": {
+                "calorie": 160,
+                "protein": 8.4,
+                "carbs": 27,
+                "fats": 2.7
+            },
+            "bol": {
+                "calorie": 420,
+                "protein": 22,
+                "carbs": 70,
+                "fats": 6.9
+            }
+        }
+    },
+    {
+        "name": "Arvejas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 81,
+                "protein": 5,
+                "carbs": 14,
+                "fats": 0.4
+            },
+            "cucharada": {
+                "calorie": 20,
+                "protein": 1.25,
+                "carbs": 3.5,
+                "fats": 0.1
+            },
+            "puñado": {
+                "calorie": 40,
+                "protein": 2.5,
+                "carbs": 7,
+                "fats": 0.2
+            },
+            "bol": {
+                "calorie": 100,
+                "protein": 6.25,
+                "carbs": 17.5,
+                "fats": 0.5
+            }
+        }
+    },
+    {
+        "name": "Habichuelas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 31,
+                "protein": 1.8,
+                "carbs": 7,
+                "fats": 0.1
+            },
+            "cucharada": {
+                "calorie": 8,
+                "protein": 0.45,
+                "carbs": 1.75,
+                "fats": 0.025
+            },
+            "puñado": {
+                "calorie": 15,
+                "protein": 0.9,
+                "carbs": 3.5,
+                "fats": 0.05
+            },
+            "bol": {
+                "calorie": 62,
+                "protein": 3.6,
+                "carbs": 14,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Bebida de Almendras",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 15,
+                "protein": 0.5,
+                "carbs": 0.6,
+                "fats": 1.1
+            },
+            "taza": {
+                "calorie": 30,
+                "protein": 1,
+                "carbs": 1.2,
+                "fats": 2.2
+            },
+            "botella": {
+                "calorie": 60,
+                "protein": 2,
+                "carbs": 2.4,
+                "fats": 4.4
+            },
+            "cucharada": {
+                "calorie": 4,
+                "protein": 0.13,
+                "carbs": 0.16,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Bebida de Soya",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 33,
+                "protein": 2.9,
+                "carbs": 1.7,
+                "fats": 1.8
+            },
+            "taza": {
+                "calorie": 66,
+                "protein": 5.8,
+                "carbs": 3.4,
+                "fats": 3.6
+            },
+            "botella": {
+                "calorie": 132,
+                "protein": 11.6,
+                "carbs": 6.8,
+                "fats": 7.2
+            },
+            "cucharada": {
+                "calorie": 8,
+                "protein": 0.7,
+                "carbs": 0.4,
+                "fats": 0.45
+            }
+        }
+    },
+    {
+        "name": "Bebida de Coco",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 46,
+                "protein": 0.5,
+                "carbs": 2,
+                "fats": 4.5
+            },
+            "taza": {
+                "calorie": 92,
+                "protein": 1,
+                "carbs": 4,
+                "fats": 9
+            },
+            "botella": {
+                "calorie": 184,
+                "protein": 2,
+                "carbs": 8,
+                "fats": 18
+            },
+            "cucharada": {
+                "calorie": 11,
+                "protein": 0.13,
+                "carbs": 0.5,
+                "fats": 1.12
+            }
+        }
+    },
+    {
+        "name": "Banano",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 89,
+                "protein": 1.1,
+                "carbs": 23,
+                "fats": 0.3
+            },
+            "rodaja": {
+                "calorie": 9,
+                "protein": 0.11,
+                "carbs": 2.3,
+                "fats": 0.03
+            },
+            "trozo": {
+                "calorie": 22,
+                "protein": 0.28,
+                "carbs": 5.75,
+                "fats": 0.08
+            },
+            "mitad": {
+                "calorie": 44.5,
+                "protein": 0.55,
+                "carbs": 11.5,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Fresas",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 4,
+                "protein": 0.1,
+                "carbs": 0.9,
+                "fats": 0.04
+            },
+            "taza": {
+                "calorie": 32,
+                "protein": 0.7,
+                "carbs": 7.7,
+                "fats": 0.3
+            },
+            "bol": {
+                "calorie": 64,
+                "protein": 1.4,
+                "carbs": 15.4,
+                "fats": 0.6
+            },
+            "cucharada": {
+                "calorie": 8,
+                "protein": 0.18,
+                "carbs": 1.9,
+                "fats": 0.08
+            }
+        }
+    },
+    {
+        "name": "Quinua",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 120,
+                "protein": 4.1,
+                "carbs": 21,
+                "fats": 1.9
+            },
+            "cucharada": {
+                "calorie": 30,
+                "protein": 1,
+                "carbs": 5.25,
+                "fats": 0.48
+            },
+            "puñado": {
+                "calorie": 60,
+                "protein": 2,
+                "carbs": 10.5,
+                "fats": 0.95
+            },
+            "bol": {
+                "calorie": 240,
+                "protein": 8.2,
+                "carbs": 42,
+                "fats": 3.8
+            }
+        }
+    },
+    {
+        "name": "Pasta",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "porción cocida": {
+                "calorie": 131,
+                "protein": 5,
+                "carbs": 25,
+                "fats": 1.1
+            },
+            "taza": {
+                "calorie": 65.5,
+                "protein": 2.5,
+                "carbs": 12.5,
+                "fats": 0.55
+            },
+            "puñado": {
+                "calorie": 32.8,
+                "protein": 1.25,
+                "carbs": 6.25,
+                "fats": 0.28
+            },
+            "plato": {
+                "calorie": 262,
+                "protein": 10,
+                "carbs": 50,
+                "fats": 2.2
+            }
+        }
+    },
+    {
+        "name": "Mazorca",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 86,
+                "protein": 3.2,
+                "carbs": 19,
+                "fats": 1.2
+            },
+            "mitad": {
+                "calorie": 43,
+                "protein": 1.6,
+                "carbs": 9.5,
+                "fats": 0.6
+            },
+            "trozo": {
+                "calorie": 21.5,
+                "protein": 0.8,
+                "carbs": 4.75,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Crispetas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 375,
+                "protein": 11,
+                "carbs": 74,
+                "fats": 4.3
+            },
+            "bol": {
+                "calorie": 750,
+                "protein": 22,
+                "carbs": 148,
+                "fats": 8.6
+            },
+            "puñado": {
+                "calorie": 187.5,
+                "protein": 5.5,
+                "carbs": 37,
+                "fats": 2.15
+            },
+            "bolsa": {
+                "calorie": 1500,
+                "protein": 44,
+                "carbs": 296,
+                "fats": 17.2
+            }
+        }
+    },
+    {
+        "name": "Avena",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 389,
+                "protein": 17,
+                "carbs": 66,
+                "fats": 7
+            },
+            "cucharada": {
+                "calorie": 48.6,
+                "protein": 2.1,
+                "carbs": 8.25,
+                "fats": 0.88
+            },
+            "bol": {
+                "calorie": 778,
+                "protein": 34,
+                "carbs": 132,
+                "fats": 14
+            },
+            "porción": {
+                "calorie": 194.5,
+                "protein": 8.5,
+                "carbs": 33,
+                "fats": 3.5
+            }
+        }
+    },
+    {
+        "name": "Pan",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 265,
+                "protein": 9,
+                "carbs": 49,
+                "fats": 3.3
+            },
+            "rodaja": {
+                "calorie": 132.5,
+                "protein": 4.5,
+                "carbs": 24.5,
+                "fats": 1.65
+            },
+            "pieza": {
+                "calorie": 530,
+                "protein": 18,
+                "carbs": 98,
+                "fats": 6.6
+            },
+            "mitad": {
+                "calorie": 132.5,
+                "protein": 4.5,
+                "carbs": 24.5,
+                "fats": 1.65
+            }
+        }
+    },
+    {
+        "name": "Tortilla",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 218,
+                "protein": 6,
+                "carbs": 46,
+                "fats": 2.5
+            },
+            "pieza": {
+                "calorie": 436,
+                "protein": 12,
+                "carbs": 92,
+                "fats": 5
+            },
+            "mitad": {
+                "calorie": 109,
+                "protein": 3,
+                "carbs": 23,
+                "fats": 1.25
+            },
+            "trozo": {
+                "calorie": 54.5,
+                "protein": 1.5,
+                "carbs": 11.5,
+                "fats": 0.63
+            }
+        }
+    },
+    {
+        "name": "Cereal",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 363,
+                "protein": 6,
+                "carbs": 77,
+                "fats": 1.3
+            },
+            "bol": {
+                "calorie": 726,
+                "protein": 12,
+                "carbs": 154,
+                "fats": 2.6
+            },
+            "cucharada": {
+                "calorie": 45.4,
+                "protein": 0.75,
+                "carbs": 9.63,
+                "fats": 0.16
+            },
+            "puñado": {
+                "calorie": 90.8,
+                "protein": 1.5,
+                "carbs": 19.3,
+                "fats": 0.33
+            }
+        }
+    },
+    {
+        "name": "Aguacate",
+        "category": "Grasas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 160,
+                "protein": 2,
+                "carbs": 9,
+                "fats": 15
+            },
+            "rodaja": {
+                "calorie": 20,
+                "protein": 0.25,
+                "carbs": 1.13,
+                "fats": 1.88
+            },
+            "tajada": {
+                "calorie": 40,
+                "protein": 0.5,
+                "carbs": 2.25,
+                "fats": 3.75
+            },
+            "mitad": {
+                "calorie": 80,
+                "protein": 1,
+                "carbs": 4.5,
+                "fats": 7.5
+            }
+        }
+    },
+    {
+        "name": "Maní",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 567,
+                "protein": 26,
+                "carbs": 16,
+                "fats": 49
+            },
+            "cucharada": {
+                "calorie": 70.9,
+                "protein": 3.25,
+                "carbs": 2,
+                "fats": 6.13
+            },
+            "taza": {
+                "calorie": 1134,
+                "protein": 52,
+                "carbs": 32,
+                "fats": 98
+            },
+            "bol": {
+                "calorie": 2268,
+                "protein": 104,
+                "carbs": 64,
+                "fats": 196
+            }
+        }
+    },
+    {
+        "name": "Almendras",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 579,
+                "protein": 21,
+                "carbs": 22,
+                "fats": 50
+            },
+            "unidad": {
+                "calorie": 5.79,
+                "protein": 0.21,
+                "carbs": 0.22,
+                "fats": 0.5
+            },
+            "taza": {
+                "calorie": 1158,
+                "protein": 42,
+                "carbs": 44,
+                "fats": 100
+            },
+            "bol": {
+                "calorie": 2316,
+                "protein": 84,
+                "carbs": 88,
+                "fats": 200
+            }
+        }
+    },
+    {
+        "name": "Pecanas",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 691,
+                "protein": 9,
+                "carbs": 14,
+                "fats": 72
+            },
+            "unidad": {
+                "calorie": 6.91,
+                "protein": 0.09,
+                "carbs": 0.14,
+                "fats": 0.72
+            },
+            "taza": {
+                "calorie": 1382,
+                "protein": 18,
+                "carbs": 28,
+                "fats": 144
+            },
+            "bol": {
+                "calorie": 2764,
+                "protein": 36,
+                "carbs": 56,
+                "fats": 288
+            }
+        }
+    },
+    {
+        "name": "Marañones",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 553,
+                "protein": 18,
+                "carbs": 30,
+                "fats": 44
+            },
+            "unidad": {
+                "calorie": 5.53,
+                "protein": 0.18,
+                "carbs": 0.3,
+                "fats": 0.44
+            },
+            "taza": {
+                "calorie": 1106,
+                "protein": 36,
+                "carbs": 60,
+                "fats": 88
+            },
+            "bol": {
+                "calorie": 2212,
+                "protein": 72,
+                "carbs": 120,
+                "fats": 176
+            }
+        }
+    },
+    {
+        "name": "Nueces",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 654,
+                "protein": 15,
+                "carbs": 14,
+                "fats": 65
+            },
+            "unidad": {
+                "calorie": 6.54,
+                "protein": 0.15,
+                "carbs": 0.14,
+                "fats": 0.65
+            },
+            "taza": {
+                "calorie": 1308,
+                "protein": 30,
+                "carbs": 28,
+                "fats": 130
+            },
+            "bol": {
+                "calorie": 2616,
+                "protein": 60,
+                "carbs": 56,
+                "fats": 260
+            }
+        }
+    },
+    {
+        "name": "Aceitunas",
+        "category": "Grasas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 11.5,
+                "protein": 0.08,
+                "carbs": 0.6,
+                "fats": 1.1
+            },
+            "taza": {
+                "calorie": 230,
+                "protein": 1.6,
+                "carbs": 12,
+                "fats": 22
+            },
+            "puñado": {
+                "calorie": 115,
+                "protein": 0.8,
+                "carbs": 6,
+                "fats": 11
+            },
+            "bol": {
+                "calorie": 460,
+                "protein": 3.2,
+                "carbs": 24,
+                "fats": 44
+            }
+        }
+    },
+    {
+        "name": "Chía",
+        "category": "Grasas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 48.6,
+                "protein": 1.7,
+                "carbs": 4.2,
+                "fats": 3.1
+            },
+            "taza": {
+                "calorie": 972,
+                "protein": 34,
+                "carbs": 84,
+                "fats": 62
+            },
+            "puñado": {
+                "calorie": 486,
+                "protein": 17,
+                "carbs": 42,
+                "fats": 31
+            },
+            "bol": {
+                "calorie": 1944,
+                "protein": 68,
+                "carbs": 168,
+                "fats": 124
+            }
+        }
+    },
+    {
+        "name": "Manzana",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 52,
+                "protein": 0.3,
+                "carbs": 14,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 5.2,
+                "protein": 0.03,
+                "carbs": 1.4,
+                "fats": 0.02
+            },
+            "trozo": {
+                "calorie": 10.4,
+                "protein": 0.06,
+                "carbs": 2.8,
+                "fats": 0.04
+            },
+            "mitad": {
+                "calorie": 26,
+                "protein": 0.15,
+                "carbs": 7,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Arándanos",
+        "category": "Frutas",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 57,
+                "protein": 0.7,
+                "carbs": 14,
+                "fats": 0.3
+            },
+            "puñado": {
+                "calorie": 28.5,
+                "protein": 0.35,
+                "carbs": 7,
+                "fats": 0.15
+            },
+            "bol": {
+                "calorie": 114,
+                "protein": 1.4,
+                "carbs": 28,
+                "fats": 0.6
+            },
+            "cucharada": {
+                "calorie": 7.1,
+                "protein": 0.09,
+                "carbs": 1.75,
+                "fats": 0.04
+            }
+        }
+    },
+    {
+        "name": "Piña",
+        "category": "Frutas",
+        "measurementUnits": {
+            "rodaja": {
+                "calorie": 25,
+                "protein": 0.25,
+                "carbs": 6.5,
+                "fats": 0.05
+            },
+            "trozo": {
+                "calorie": 12.5,
+                "protein": 0.13,
+                "carbs": 3.25,
+                "fats": 0.025
+            },
+            "taza en cubos": {
+                "calorie": 50,
+                "protein": 0.5,
+                "carbs": 13,
+                "fats": 0.1
+            },
+            "mitad": {
+                "calorie": 100,
+                "protein": 1,
+                "carbs": 26,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Papaya",
+        "category": "Frutas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 21.5,
+                "protein": 0,
+                "carbs": 5.5,
+                "fats": 0.15
+            },
+            "trozo": {
+                "calorie": 10.75,
+                "protein": 0,
+                "carbs": 2.75,
+                "fats": 0.075
+            },
+            "taza en cubos": {
+                "calorie": 43,
+                "protein": 0,
+                "carbs": 11,
+                "fats": 0.3
+            },
+            "mitad": {
+                "calorie": 86,
+                "protein": 0,
+                "carbs": 22,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Mandarina",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 53,
+                "protein": 0.8,
+                "carbs": 13,
+                "fats": 0.3
+            },
+            "gajo": {
+                "calorie": 5.3,
+                "protein": 0.08,
+                "carbs": 1.3,
+                "fats": 0.03
+            },
+            "taza en gajos": {
+                "calorie": 106,
+                "protein": 1.6,
+                "carbs": 26,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Naranja",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 47,
+                "protein": 0.9,
+                "carbs": 12,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 4.7,
+                "protein": 0.09,
+                "carbs": 1.2,
+                "fats": 0.01
+            },
+            "taza en gajos": {
+                "calorie": 94,
+                "protein": 1.8,
+                "carbs": 24,
+                "fats": 0.2
+            },
+            "mitad": {
+                "calorie": 23.5,
+                "protein": 0.45,
+                "carbs": 6,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Kiwi",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 61,
+                "protein": 1.1,
+                "carbs": 15,
+                "fats": 0.5
+            },
+            "rodaja": {
+                "calorie": 6.1,
+                "protein": 0.11,
+                "carbs": 1.5,
+                "fats": 0.05
+            },
+            "mitad": {
+                "calorie": 30.5,
+                "protein": 0.55,
+                "carbs": 7.5,
+                "fats": 0.25
+            }
+        }
+    },
+    {
+        "name": "Mango",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 60,
+                "protein": 0.8,
+                "carbs": 15,
+                "fats": 0.4
+            },
+            "rebanada": {
+                "calorie": 12,
+                "protein": 0.16,
+                "carbs": 3,
+                "fats": 0.08
+            },
+            "trozo": {
+                "calorie": 6,
+                "protein": 0.08,
+                "carbs": 1.5,
+                "fats": 0.04
+            },
+            "taza en cubos": {
+                "calorie": 48,
+                "protein": 0.64,
+                "carbs": 12,
+                "fats": 0.32
+            }
+        }
+    },
+    {
+        "name": "Sandía",
+        "category": "Frutas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 30,
+                "protein": 0.6,
+                "carbs": 8,
+                "fats": 0.2
+            },
+            "trozo": {
+                "calorie": 15,
+                "protein": 0.3,
+                "carbs": 4,
+                "fats": 0.1
+            },
+            "taza en cubos": {
+                "calorie": 30,
+                "protein": 0.6,
+                "carbs": 8,
+                "fats": 0.2
+            },
+            "mitad": {
+                "calorie": 300,
+                "protein": 6,
+                "carbs": 80,
+                "fats": 2
+            }
+        }
+    },
+    {
+        "name": "Pera",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 57,
+                "protein": 0.4,
+                "carbs": 15,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 5.7,
+                "protein": 0.04,
+                "carbs": 1.5,
+                "fats": 0.01
+            },
+            "trozo": {
+                "calorie": 11.4,
+                "protein": 0.08,
+                "carbs": 3,
+                "fats": 0.02
+            },
+            "mitad": {
+                "calorie": 28.5,
+                "protein": 0.2,
+                "carbs": 7.5,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Durazno",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 39,
+                "protein": 0.9,
+                "carbs": 10,
+                "fats": 0.3
+            },
+            "rebanada": {
+                "calorie": 3.9,
+                "protein": 0.09,
+                "carbs": 1,
+                "fats": 0.03
+            },
+            "mitad": {
+                "calorie": 19.5,
+                "protein": 0.45,
+                "carbs": 5,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Uvas",
+        "category": "Frutas",
+        "measurementUnits": {
+            "racimo": {
+                "calorie": 138,
+                "protein": 1.4,
+                "carbs": 36,
+                "fats": 0.4
+            },
+            "unidad": {
+                "calorie": 2.3,
+                "protein": 0.03,
+                "carbs": 0.76,
+                "fats": 0.008
+            },
+            "taza": {
+                "calorie": 69,
+                "protein": 0.7,
+                "carbs": 18,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Granadilla",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 97,
+                "protein": 0.4,
+                "carbs": 23,
+                "fats": 0.7
+            },
+            "mitad": {
+                "calorie": 48.5,
+                "protein": 0.2,
+                "carbs": 11.5,
+                "fats": 0.35
+            },
+            "cucharada de pulpa": {
+                "calorie": 9.7,
+                "protein": 0.04,
+                "carbs": 2.3,
+                "fats": 0.07
+            }
+        }
+    },
+    {
+        "name": "Melón",
+        "category": "Frutas",
+        "measurementUnits": {
+            "rodaja": {
+                "calorie": 10.2,
+                "protein": 0.24,
+                "carbs": 2.4,
+                "fats": 0.06
+            },
+            "tajada": {
+                "calorie": 51.0,
+                "protein": 1.2,
+                "carbs": 12.0,
+                "fats": 0.3
+            },
+            "trozo": {
+                "calorie": 34.0,
+                "protein": 0.8,
+                "carbs": 8.0,
+                "fats": 0.2
+            },
+            "cubos": {
+                "calorie": 68.0,
+                "protein": 1.6,
+                "carbs": 16.0,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Dátiles",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 554.0,
+                "protein": 3.6,
+                "carbs": 150.0,
+                "fats": 0.4
+            },
+            "taza de picados": {
+                "calorie": 415.5,
+                "protein": 2.7,
+                "carbs": 112.5,
+                "fats": 0.3
+            },
+            "puñado": {
+                "calorie": 138.5,
+                "protein": 0.9,
+                "carbs": 37.5,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Pitahaya",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 100.0,
+                "protein": 3.0,
+                "carbs": 26.0,
+                "fats": 0.2
+            },
+            "mitad": {
+                "calorie": 50.0,
+                "protein": 1.5,
+                "carbs": 13.0,
+                "fats": 0.1
+            },
+            "tajada": {
+                "calorie": 75.0,
+                "protein": 2.25,
+                "carbs": 19.5,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Pan Integral",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 75.0,
+                "protein": 3.9,
+                "carbs": 12.3,
+                "fats": 1.35
+            },
+            "rodaja": {
+                "calorie": 75.0,
+                "protein": 3.9,
+                "carbs": 12.3,
+                "fats": 1.35
+            },
+            "trozo": {
+                "calorie": 250.0,
+                "protein": 13.0,
+                "carbs": 41.0,
+                "fats": 4.5
+            }
+        }
+    },
+    {
+        "name": "Mantequilla",
+        "category": "Grasas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 100.38,
+                "protein": 0.126,
+                "carbs": 0.014,
+                "fats": 11.34
+            },
+            "trozo": {
+                "calorie": 717.0,
+                "protein": 0.9,
+                "carbs": 0.1,
+                "fats": 81.0
+            },
+            "cucharadita": {
+                "calorie": 33.46,
+                "protein": 0.042,
+                "carbs": 0.005,
+                "fats": 3.78
+            },
+            "barra": {
+                "calorie": 1434.0,
+                "protein": 1.8,
+                "carbs": 0.2,
+                "fats": 162.0
+            }
+        }
+    },
+    {
+        "name": "Queso Fresco",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 89.7,
+                "protein": 5.4,
+                "carbs": 0.93,
+                "fats": 7.2
+            },
+            "trozo": {
+                "calorie": 299.0,
+                "protein": 18.0,
+                "carbs": 3.1,
+                "fats": 24.0
+            },
+            "cubito": {
+                "calorie": 59.8,
+                "protein": 3.6,
+                "carbs": 0.62,
+                "fats": 4.8
+            },
+            "loncha": {
+                "calorie": 89.7,
+                "protein": 5.4,
+                "carbs": 0.93,
+                "fats": 7.2
+            }
+        }
+    },
+    {
+        "name": "Tomate",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 36.0,
+                "protein": 1.8,
+                "carbs": 7.8,
+                "fats": 0.4
+            },
+            "rodaja": {
+                "calorie": 5.4,
+                "protein": 0.27,
+                "carbs": 1.17,
+                "fats": 0.06
+            },
+            "tajada": {
+                "calorie": 27.0,
+                "protein": 1.35,
+                "carbs": 5.85,
+                "fats": 0.3
+            },
+            "trozo": {
+                "calorie": 18.0,
+                "protein": 0.9,
+                "carbs": 3.9,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Espinaca",
+        "category": "Verduras",
+        "measurementUnits": {
+            "hoja": {
+                "calorie": 2.3,
+                "protein": 0.29,
+                "carbs": 0.36,
+                "fats": 0.04
+            },
+            "puñado": {
+                "calorie": 11.5,
+                "protein": 1.45,
+                "carbs": 1.8,
+                "fats": 0.2
+            },
+            "taza de hojas": {
+                "calorie": 6.9,
+                "protein": 0.87,
+                "carbs": 1.08,
+                "fats": 0.12
+            },
+            "ramo": {
+                "calorie": 23.0,
+                "protein": 2.9,
+                "carbs": 3.6,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Zanahoria",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 82.0,
+                "protein": 1.8,
+                "carbs": 20.0,
+                "fats": 0.4
+            },
+            "rodaja": {
+                "calorie": 12.3,
+                "protein": 0.27,
+                "carbs": 3.0,
+                "fats": 0.06
+            },
+            "rallada": {
+                "calorie": 4.1,
+                "protein": 0.09,
+                "carbs": 1.0,
+                "fats": 0.02
+            },
+            "trozo": {
+                "calorie": 41.0,
+                "protein": 0.9,
+                "carbs": 10.0,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Calabacín",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 34.0,
+                "protein": 2.4,
+                "carbs": 6.2,
+                "fats": 0.6
+            },
+            "rodaja": {
+                "calorie": 5.1,
+                "protein": 0.36,
+                "carbs": 0.93,
+                "fats": 0.09
+            },
+            "trozo": {
+                "calorie": 17.0,
+                "protein": 1.2,
+                "carbs": 3.1,
+                "fats": 0.3
+            },
+            "mitad": {
+                "calorie": 17.0,
+                "protein": 1.2,
+                "carbs": 3.1,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Brócoli",
+        "category": "Verduras",
+        "measurementUnits": {
+            "ramillete": {
+                "calorie": 34.0,
+                "protein": 2.8,
+                "carbs": 6.6,
+                "fats": 0.4
+            },
+            "taza de floretes": {
+                "calorie": 34.0,
+                "protein": 2.8,
+                "carbs": 6.6,
+                "fats": 0.4
+            },
+            "tallo": {
+                "calorie": 34.0,
+                "protein": 2.8,
+                "carbs": 6.6,
+                "fats": 0.4
+            },
+            "trozo": {
+                "calorie": 34.0,
+                "protein": 2.8,
+                "carbs": 6.6,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Lomo de Cerdo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 242.0,
+                "protein": 27.0,
+                "carbs": 0.0,
+                "fats": 14.0
+            },
+            "tajada": {
+                "calorie": 363.0,
+                "protein": 40.5,
+                "carbs": 0.0,
+                "fats": 21.0
+            },
+            "trozo": {
+                "calorie": 242.0,
+                "protein": 27.0,
+                "carbs": 0.0,
+                "fats": 14.0
+            },
+            "porción": {
+                "calorie": 242.0,
+                "protein": 27.0,
+                "carbs": 0.0,
+                "fats": 14.0
+            }
+        }
+    },
+    {
+        "name": "Salmón",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 208.0,
+                "protein": 20.0,
+                "carbs": 0.0,
+                "fats": 13.0
+            },
+            "rodaja": {
+                "calorie": 312.0,
+                "protein": 30.0,
+                "carbs": 0.0,
+                "fats": 19.5
+            },
+            "trozo": {
+                "calorie": 208.0,
+                "protein": 20.0,
+                "carbs": 0.0,
+                "fats": 13.0
+            },
+            "porción": {
+                "calorie": 208.0,
+                "protein": 20.0,
+                "carbs": 0.0,
+                "fats": 13.0
+            }
+        }
+    },
+    {
+        "name": "Aguacate",
+        "category": "Frutas",
+        "measurementUnits": {
+            "mitad": {
+                "calorie": 160.0,
+                "protein": 2.0,
+                "carbs": 9.0,
+                "fats": 15.0
+            },
+            "rodaja": {
+                "calorie": 32.0,
+                "protein": 0.4,
+                "carbs": 1.8,
+                "fats": 3.0
+            },
+            "trozo": {
+                "calorie": 160.0,
+                "protein": 2.0,
+                "carbs": 9.0,
+                "fats": 15.0
+            },
+            "cubos": {
+                "calorie": 320.0,
+                "protein": 4.0,
+                "carbs": 18.0,
+                "fats": 30.0
+            }
+        }
+    },
+    {
+        "name": "Naranja",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 47.0,
+                "protein": 0.9,
+                "carbs": 12.0,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 9.4,
+                "protein": 0.18,
+                "carbs": 2.4,
+                "fats": 0.02
+            },
+            "gajo": {
+                "calorie": 7.05,
+                "protein": 0.135,
+                "carbs": 1.8,
+                "fats": 0.015
+            },
+            "zumo/jugo": {
+                "calorie": 23.5,
+                "protein": 0.45,
+                "carbs": 6.0,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Plátano",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 89.0,
+                "protein": 1.1,
+                "carbs": 23.0,
+                "fats": 0.3
+            },
+            "rodaja": {
+                "calorie": 17.8,
+                "protein": 0.22,
+                "carbs": 4.6,
+                "fats": 0.06
+            },
+            "trozo": {
+                "calorie": 44.5,
+                "protein": 0.55,
+                "carbs": 11.5,
+                "fats": 0.15
+            },
+            "mitad": {
+                "calorie": 44.5,
+                "protein": 0.55,
+                "carbs": 11.5,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Manzana Verde",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 104.0,
+                "protein": 0.6,
+                "carbs": 28.0,
+                "fats": 0.4
+            },
+            "rodaja": {
+                "calorie": 15.6,
+                "protein": 0.09,
+                "carbs": 4.2,
+                "fats": 0.06
+            },
+            "trozo": {
+                "calorie": 52.0,
+                "protein": 0.3,
+                "carbs": 14.0,
+                "fats": 0.2
+            },
+            "mitad": {
+                "calorie": 52.0,
+                "protein": 0.3,
+                "carbs": 14.0,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Pechuga de Pavo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 189.0,
+                "protein": 29.0,
+                "carbs": 0.0,
+                "fats": 7.0
+            },
+            "tajada": {
+                "calorie": 283.5,
+                "protein": 43.5,
+                "carbs": 0.0,
+                "fats": 10.5
+            },
+            "trozo": {
+                "calorie": 189.0,
+                "protein": 29.0,
+                "carbs": 0.0,
+                "fats": 7.0
+            },
+            "porción": {
+                "calorie": 189.0,
+                "protein": 29.0,
+                "carbs": 0.0,
+                "fats": 7.0
+            }
+        }
+    },
+    {
+        "name": "Almendras",
+        "category": "Grasas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 1158.0,
+                "protein": 42.0,
+                "carbs": 44.0,
+                "fats": 100.0
+            },
+            "puñado": {
+                "calorie": 289.5,
+                "protein": 10.5,
+                "carbs": 11.0,
+                "fats": 25.0
+            },
+            "taza": {
+                "calorie": 579.0,
+                "protein": 21.0,
+                "carbs": 22.0,
+                "fats": 50.0
+            },
+            "cucharada": {
+                "calorie": 81.06,
+                "protein": 2.94,
+                "carbs": 3.08,
+                "fats": 7.0
+            }
+        }
+    },
+    {
+        "name": "Camarones",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 198.0,
+                "protein": 48.0,
+                "carbs": 0.4,
+                "fats": 0.6
+            },
+            "puñado": {
+                "calorie": 49.5,
+                "protein": 12.0,
+                "carbs": 0.1,
+                "fats": 0.15
+            },
+            "taza": {
+                "calorie": 99.0,
+                "protein": 24.0,
+                "carbs": 0.2,
+                "fats": 0.3
+            },
+            "porción": {
+                "calorie": 99.0,
+                "protein": 24.0,
+                "carbs": 0.2,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Garbanzos",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 364.0,
+                "protein": 19.0,
+                "carbs": 61.0,
+                "fats": 6.0
+            },
+            "puñado": {
+                "calorie": 182.0,
+                "protein": 9.5,
+                "carbs": 30.5,
+                "fats": 3.0
+            },
+            "cucharada": {
+                "calorie": 60.67,
+                "protein": 3.17,
+                "carbs": 10.17,
+                "fats": 1.0
+            },
+            "bol": {
+                "calorie": 728.0,
+                "protein": 38.0,
+                "carbs": 122.0,
+                "fats": 12.0
+            }
+        }
+    },
+    {
+        "name": "Ajo",
+        "category": "Verduras",
+        "measurementUnits": {
+            "diente": {
+                "calorie": 4.47,
+                "protein": 0.192,
+                "carbs": 0.99,
+                "fats": 0.015
+            },
+            "cucharada picada": {
+                "calorie": 22.35,
+                "protein": 1.152,
+                "carbs": 5.94,
+                "fats": 0.09
+            },
+            "cabeza": {
+                "calorie": 298.0,
+                "protein": 12.8,
+                "carbs": 66.0,
+                "fats": 1.0
+            },
+            "trozo": {
+                "calorie": 149.0,
+                "protein": 6.4,
+                "carbs": 33.0,
+                "fats": 0.5
+            }
+        }
+    },
+    {
+        "name": "Cebolla",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 80.0,
+                "protein": 2.2,
+                "carbs": 18.0,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 4.0,
+                "protein": 0.11,
+                "carbs": 0.9,
+                "fats": 0.01
+            },
+            "trozo picado": {
+                "calorie": 40.0,
+                "protein": 1.1,
+                "carbs": 9.0,
+                "fats": 0.1
+            },
+            "cucharada": {
+                "calorie": 5.0,
+                "protein": 0.1375,
+                "carbs": 1.125,
+                "fats": 0.0125
+            }
+        }
+    },
+    {
+        "name": "Lechuga",
+        "category": "Verduras",
+        "measurementUnits": {
+            "hoja": {
+                "calorie": 0.75,
+                "protein": 0.07,
+                "carbs": 0.145,
+                "fats": 0.01
+            },
+            "taza picada": {
+                "calorie": 7.5,
+                "protein": 0.7,
+                "carbs": 1.45,
+                "fats": 0.1
+            },
+            "cabeza": {
+                "calorie": 60.0,
+                "protein": 5.6,
+                "carbs": 11.6,
+                "fats": 0.8
+            }
+        }
+    },
+    {
+        "name": "Col",
+        "category": "Verduras",
+        "measurementUnits": {
+            "hoja": {
+                "calorie": 1.25,
+                "protein": 0.065,
+                "carbs": 0.3,
+                "fats": 0.005
+            },
+            "taza rallada": {
+                "calorie": 12.5,
+                "protein": 0.65,
+                "carbs": 3.0,
+                "fats": 0.05
+            },
+            "cuarto de cabeza": {
+                "calorie": 100.0,
+                "protein": 5.2,
+                "carbs": 24.0,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Pimiento Rojo",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 62.0,
+                "protein": 2.0,
+                "carbs": 12.0,
+                "fats": 0.6
+            },
+            "taza picada": {
+                "calorie": 31.0,
+                "protein": 1.0,
+                "carbs": 6.0,
+                "fats": 0.3
+            },
+            "tiras": {
+                "calorie": 31.0,
+                "protein": 1.0,
+                "carbs": 6.0,
+                "fats": 0.3
+            },
+            "trozo": {
+                "calorie": 31.0,
+                "protein": 1.0,
+                "carbs": 6.0,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Pepino",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 32.0,
+                "protein": 1.4,
+                "carbs": 7.2,
+                "fats": 0.4
+            },
+            "rodaja": {
+                "calorie": 4.8,
+                "protein": 0.21,
+                "carbs": 1.08,
+                "fats": 0.06
+            },
+            "mitad": {
+                "calorie": 16.0,
+                "protein": 0.7,
+                "carbs": 3.6,
+                "fats": 0.2
+            },
+            "trozo": {
+                "calorie": 16.0,
+                "protein": 0.7,
+                "carbs": 3.6,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Berenjena",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 50.0,
+                "protein": 2.0,
+                "carbs": 12.0,
+                "fats": 0.4
+            },
+            "rodaja": {
+                "calorie": 7.5,
+                "protein": 0.3,
+                "carbs": 1.8,
+                "fats": 0.06
+            },
+            "mitad": {
+                "calorie": 25.0,
+                "protein": 1.0,
+                "carbs": 6.0,
+                "fats": 0.2
+            },
+            "trozo": {
+                "calorie": 25.0,
+                "protein": 1.0,
+                "carbs": 6.0,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Espárragos",
+        "category": "Verduras",
+        "measurementUnits": {
+            "tallo": {
+                "calorie": 20.0,
+                "protein": 2.2,
+                "carbs": 3.9,
+                "fats": 0.1
+            },
+            "manojo": {
+                "calorie": 300.0,
+                "protein": 33.0,
+                "carbs": 58.5,
+                "fats": 1.5
+            },
+            "taza cortada": {
+                "calorie": 40.0,
+                "protein": 4.4,
+                "carbs": 7.8,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Remolacha",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 86.0,
+                "protein": 3.2,
+                "carbs": 20.0,
+                "fats": 0.4
+            },
+            "rodaja": {
+                "calorie": 12.9,
+                "protein": 0.48,
+                "carbs": 3.0,
+                "fats": 0.06
+            },
+            "taza rallada": {
+                "calorie": 43.0,
+                "protein": 1.6,
+                "carbs": 10.0,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Calabaza",
+        "category": "Verduras",
+        "measurementUnits": {
+            "rodaja": {
+                "calorie": 7.8,
+                "protein": 0.3,
+                "carbs": 1.95,
+                "fats": 0.03
+            },
+            "taza en cubos": {
+                "calorie": 26.0,
+                "protein": 1.0,
+                "carbs": 6.5,
+                "fats": 0.1
+            },
+            "trozo": {
+                "calorie": 52.0,
+                "protein": 2.0,
+                "carbs": 13.0,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Champiñones",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 22.0,
+                "protein": 3.1,
+                "carbs": 3.3,
+                "fats": 0.3
+            },
+            "taza picada": {
+                "calorie": 44.0,
+                "protein": 6.2,
+                "carbs": 6.6,
+                "fats": 0.6
+            },
+            "bandeja": {
+                "calorie": 176.0,
+                "protein": 24.8,
+                "carbs": 26.4,
+                "fats": 2.4
+            }
+        }
+    },
+    {
+        "name": "Acelga",
+        "category": "Verduras",
+        "measurementUnits": {
+            "hoja": {
+                "calorie": 1.9,
+                "protein": 0.18,
+                "carbs": 0.37,
+                "fats": 0.02
+            },
+            "taza picada": {
+                "calorie": 19.0,
+                "protein": 1.8,
+                "carbs": 3.7,
+                "fats": 0.2
+            },
+            "manojo": {
+                "calorie": 95.0,
+                "protein": 9.0,
+                "carbs": 18.5,
+                "fats": 1.0
+            }
+        }
+    },
+    {
+        "name": "Rúcula",
+        "category": "Verduras",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 6.25,
+                "protein": 0.65,
+                "carbs": 0.925,
+                "fats": 0.175
+            },
+            "taza": {
+                "calorie": 25.0,
+                "protein": 2.6,
+                "carbs": 3.7,
+                "fats": 0.7
+            },
+            "bol": {
+                "calorie": 50.0,
+                "protein": 5.2,
+                "carbs": 7.4,
+                "fats": 1.4
+            }
+        }
+    },
+    {
+        "name": "Guisantes",
+        "category": "Verduras",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 81.0,
+                "protein": 5.4,
+                "carbs": 14.5,
+                "fats": 0.4
+            },
+            "vaina": {
+                "calorie": 16.2,
+                "protein": 1.08,
+                "carbs": 2.9,
+                "fats": 0.08
+            },
+            "puñado": {
+                "calorie": 40.5,
+                "protein": 2.7,
+                "carbs": 7.25,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Maíz",
+        "category": "Verduras",
+        "measurementUnits": {
+            "mazorca": {
+                "calorie": 86.0,
+                "protein": 3.2,
+                "carbs": 19.0,
+                "fats": 1.2
+            },
+            "taza de granos": {
+                "calorie": 86.0,
+                "protein": 3.2,
+                "carbs": 19.0,
+                "fats": 1.2
+            },
+            "puñado": {
+                "calorie": 43.0,
+                "protein": 1.6,
+                "carbs": 9.5,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Coliflor",
+        "category": "Verduras",
+        "measurementUnits": {
+            "ramillete": {
+                "calorie": 25.0,
+                "protein": 1.9,
+                "carbs": 5.0,
+                "fats": 0.3
+            },
+            "taza picada": {
+                "calorie": 25.0,
+                "protein": 1.9,
+                "carbs": 5.0,
+                "fats": 0.3
+            },
+            "cabeza pequeña": {
+                "calorie": 100.0,
+                "protein": 7.6,
+                "carbs": 20.0,
+                "fats": 1.2
+            }
+        }
+    },
+    {
+        "name": "Rábano",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 1,
+                "protein": 0.1,
+                "carbs": 0.2,
+                "fats": 0
+            },
+            "taza en rodajas": {
+                "calorie": 19,
+                "protein": 0.8,
+                "carbs": 4,
+                "fats": 0.1
+            },
+            "manojo": {
+                "calorie": 64,
+                "protein": 2.7,
+                "carbs": 13.6,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Lentejas Rojas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 116,
+                "protein": 9,
+                "carbs": 20,
+                "fats": 0.4
+            },
+            "puñado": {
+                "calorie": 58,
+                "protein": 4.5,
+                "carbs": 10,
+                "fats": 0.2
+            },
+            "cucharada": {
+                "calorie": 7.25,
+                "protein": 0.56,
+                "carbs": 1.25,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Arroz Integral",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 110,
+                "protein": 2.6,
+                "carbs": 23,
+                "fats": 0.9
+            },
+            "puñado": {
+                "calorie": 55,
+                "protein": 1.3,
+                "carbs": 11.5,
+                "fats": 0.45
+            },
+            "cucharada": {
+                "calorie": 6.875,
+                "protein": 0.1625,
+                "carbs": 1.4375,
+                "fats": 0.05625
+            }
+        }
+    },
+    {
+        "name": "Pan de Centeno",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 259,
+                "protein": 9.1,
+                "carbs": 48,
+                "fats": 3.3
+            },
+            "rodaja": {
+                "calorie": 129.5,
+                "protein": 4.55,
+                "carbs": 24,
+                "fats": 1.65
+            },
+            "trozo": {
+                "calorie": 64.75,
+                "protein": 2.275,
+                "carbs": 12,
+                "fats": 0.825
+            }
+        }
+    },
+    {
+        "name": "Queso de Cabra",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 91,
+                "protein": 6.9,
+                "carbs": 0.94,
+                "fats": 7.5
+            },
+            "trozo": {
+                "calorie": 182,
+                "protein": 13.8,
+                "carbs": 1.88,
+                "fats": 15
+            },
+            "cubito": {
+                "calorie": 45.5,
+                "protein": 3.45,
+                "carbs": 0.47,
+                "fats": 3.75
+            }
+        }
+    },
+    {
+        "name": "Tofu Sedoso",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "bloque": {
+                "calorie": 61,
+                "protein": 6.9,
+                "carbs": 1.6,
+                "fats": 3.4
+            },
+            "cucharada": {
+                "calorie": 7.625,
+                "protein": 0.8625,
+                "carbs": 0.2,
+                "fats": 0.425
+            },
+            "trozo": {
+                "calorie": 30.5,
+                "protein": 3.45,
+                "carbs": 0.8,
+                "fats": 1.7
+            }
+        }
+    },
+    {
+        "name": "Pollo a la Parrilla",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 150,
+                "protein": 30,
+                "carbs": 0,
+                "fats": 3.5
+            },
+            "muslo": {
+                "calorie": 120,
+                "protein": 24,
+                "carbs": 0,
+                "fats": 2.8
+            },
+            "ala": {
+                "calorie": 90,
+                "protein": 18,
+                "carbs": 0,
+                "fats": 2.1
+            },
+            "trozo": {
+                "calorie": 75,
+                "protein": 15,
+                "carbs": 0,
+                "fats": 1.75
+            }
+        }
+    },
+    {
+        "name": "Filete de Tilapia",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 128,
+                "protein": 26,
+                "carbs": 0,
+                "fats": 2.7
+            },
+            "tajada": {
+                "calorie": 64,
+                "protein": 13,
+                "carbs": 0,
+                "fats": 1.35
+            },
+            "trozo": {
+                "calorie": 32,
+                "protein": 6.5,
+                "carbs": 0,
+                "fats": 0.675
+            }
+        }
+    },
+    {
+        "name": "Aceite de Oliva",
+        "category": "Grasas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 119,
+                "protein": 0,
+                "carbs": 0,
+                "fats": 13.5
+            },
+            "cucharadita": {
+                "calorie": 39.7,
+                "protein": 0,
+                "carbs": 0,
+                "fats": 4.5
+            },
+            "botella": {
+                "calorie": 8840,
+                "protein": 0,
+                "carbs": 0,
+                "fats": 1000
+            }
+        }
+    },
+    {
+        "name": "Semillas de Calabaza",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 223,
+                "protein": 9.5,
+                "carbs": 27,
+                "fats": 9.5
+            },
+            "cucharada": {
+                "calorie": 55.75,
+                "protein": 2.375,
+                "carbs": 6.75,
+                "fats": 2.375
+            },
+            "taza": {
+                "calorie": 446,
+                "protein": 19,
+                "carbs": 54,
+                "fats": 19
+            }
+        }
+    },
+    {
+        "name": "Yogurt Griego",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 118,
+                "protein": 20,
+                "carbs": 7.2,
+                "fats": 0.8
+            },
+            "pote": {
+                "calorie": 59,
+                "protein": 10,
+                "carbs": 3.6,
+                "fats": 0.4
+            },
+            "cucharada": {
+                "calorie": 7.375,
+                "protein": 1.25,
+                "carbs": 0.45,
+                "fats": 0.05
+            },
+            "bol": {
+                "calorie": 236,
+                "protein": 40,
+                "carbs": 14.4,
+                "fats": 1.6
+            }
+        }
+    },
+    {
+        "name": "Leche de Avena",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 80,
+                "protein": 3,
+                "carbs": 13.4,
+                "fats": 1.8
+            },
+            "taza": {
+                "calorie": 60,
+                "protein": 2.25,
+                "carbs": 10.05,
+                "fats": 1.35
+            },
+            "botella": {
+                "calorie": 320,
+                "protein": 12,
+                "carbs": 53.6,
+                "fats": 7.2
+            },
+            "cucharada": {
+                "calorie": 5,
+                "protein": 0.19,
+                "carbs": 1.34,
+                "fats": 0.09
+            }
+        }
+    },
+    {
+        "name": "Melocotón",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 39,
+                "protein": 0.9,
+                "carbs": 10,
+                "fats": 0.3
+            },
+            "rodaja": {
+                "calorie": 4.88,
+                "protein": 0.11,
+                "carbs": 1.25,
+                "fats": 0.0375
+            },
+            "mitad": {
+                "calorie": 19.5,
+                "protein": 0.45,
+                "carbs": 5,
+                "fats": 0.15
+            },
+            "trozo": {
+                "calorie": 9.75,
+                "protein": 0.225,
+                "carbs": 2.5,
+                "fats": 0.075
+            }
+        }
+    },
+    {
+        "name": "Nuez de Brasil",
+        "category": "Grasas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 32.8,
+                "protein": 0.7,
+                "carbs": 0.6,
+                "fats": 3.3
+            },
+            "puñado": {
+                "calorie": 328,
+                "protein": 7,
+                "carbs": 6,
+                "fats": 33
+            },
+            "cucharada": {
+                "calorie": 82,
+                "protein": 1.75,
+                "carbs": 1.5,
+                "fats": 8.25
+            },
+            "taza": {
+                "calorie": 1312,
+                "protein": 28,
+                "carbs": 24,
+                "fats": 132
+            }
+        }
+    },
+    {
+        "name": "Miel",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 60.8,
+                "protein": 0.06,
+                "carbs": 16.4,
+                "fats": 0
+            },
+            "cucharadita": {
+                "calorie": 20.27,
+                "protein": 0.02,
+                "carbs": 5.47,
+                "fats": 0
+            },
+            "frasco": {
+                "calorie": 3040,
+                "protein": 3,
+                "carbs": 820,
+                "fats": 0
+            },
+            "gota": {
+                "calorie": 3,
+                "protein": 0.003,
+                "carbs": 0.82,
+                "fats": 0
+            }
+        }
+    }
+]
+//LIST FOOD VARIATIONS
+[
+    {
+        "name": "Pollo Frito",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 250,
+                "protein": 47,
+                "carbs": 0,
+                "fats": 13.5
+            },
+            "muslo": {
+                "calorie": 220,
+                "protein": 40,
+                "carbs": 0,
+                "fats": 12
+            },
+            "ala": {
+                "calorie": 190,
+                "protein": 35,
+                "carbs": 0,
+                "fats": 10.5
+            },
+            "trozo": {
+                "calorie": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fats": 8.8
+            },
+            "filete": {
+                "calorie": 180,
+                "protein": 34,
+                "carbs": 0,
+                "fats": 9.6
+            }
+        }
+    },
+    {
+        "name": "Pollo Asado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 190,
+                "protein": 40,
+                "carbs": 0,
+                "fats": 7.2
+            },
+            "muslo": {
+                "calorie": 175,
+                "protein": 38,
+                "carbs": 0,
+                "fats": 6.8
+            },
+            "ala": {
+                "calorie": 150,
+                "protein": 32,
+                "carbs": 0,
+                "fats": 5.4
+            },
+            "trozo": {
+                "calorie": 140,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 4.8
+            },
+            "filete": {
+                "calorie": 155,
+                "protein": 30,
+                "carbs": 0,
+                "fats": 5.4
+            }
+        }
+    },
+    {
+        "name": "Pollo Guisado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 200,
+                "protein": 42,
+                "carbs": 0,
+                "fats": 10.8
+            },
+            "muslo": {
+                "calorie": 180,
+                "protein": 37,
+                "carbs": 0,
+                "fats": 9.6
+            },
+            "ala": {
+                "calorie": 160,
+                "protein": 33,
+                "carbs": 0,
+                "fats": 8.4
+            },
+            "trozo": {
+                "calorie": 148,
+                "protein": 30,
+                "carbs": 0,
+                "fats": 7.2
+            },
+            "filete": {
+                "calorie": 165,
+                "protein": 32,
+                "carbs": 0,
+                "fats": 7.8
+            }
+        }
+    },
+    {
+        "name": "Carne Asada",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 300,
+                "protein": 31,
+                "carbs": 0,
+                "fats": 18
+            },
+            "tajada": {
+                "calorie": 250,
+                "protein": 26,
+                "carbs": 0,
+                "fats": 15
+            },
+            "trozo": {
+                "calorie": 200,
+                "protein": 21,
+                "carbs": 0,
+                "fats": 12
+            },
+            "picada": {
+                "calorie": 225,
+                "protein": 23.5,
+                "carbs": 0,
+                "fats": 13.5
+            },
+            "molida": {
+                "calorie": 275,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 16.5
+            }
+        }
+    },
+    {
+        "name": "Carne Guisada",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 275,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 16.5
+            },
+            "tajada": {
+                "calorie": 225,
+                "protein": 23.5,
+                "carbs": 0,
+                "fats": 13.5
+            },
+            "trozo": {
+                "calorie": 187.5,
+                "protein": 19.5,
+                "carbs": 0,
+                "fats": 11.25
+            },
+            "picada": {
+                "calorie": 212.5,
+                "protein": 21.75,
+                "carbs": 0,
+                "fats": 12.75
+            },
+            "molida": {
+                "calorie": 262.5,
+                "protein": 27.5,
+                "carbs": 0,
+                "fats": 15.75
+            }
+        }
+    },
+    {
+        "name": "Carne a la Plancha",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 287.5,
+                "protein": 28.5,
+                "carbs": 0,
+                "fats": 17.25
+            },
+            "tajada": {
+                "calorie": 237.5,
+                "protein": 23,
+                "carbs": 0,
+                "fats": 13.75
+            },
+            "trozo": {
+                "calorie": 187.5,
+                "protein": 19.5,
+                "carbs": 0,
+                "fats": 11
+            },
+            "picada": {
+                "calorie": 212.5,
+                "protein": 21.75,
+                "carbs": 0,
+                "fats": 12.75
+            },
+            "molida": {
+                "calorie": 262.5,
+                "protein": 27.5,
+                "carbs": 0,
+                "fats": 15.75
+            }
+        }
+    },
+    {
+        "name": "Pescado al Horno",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 247.2,
+                "protein": 26.4,
+                "carbs": 0,
+                "fats": 14.4
+            },
+            "lomo": {
+                "calorie": 206,
+                "protein": 22,
+                "carbs": 0,
+                "fats": 12
+            },
+            "rodaja": {
+                "calorie": 185.4,
+                "protein": 19.8,
+                "carbs": 0,
+                "fats": 10.8
+            },
+            "tajada": {
+                "calorie": 164.8,
+                "protein": 17.6,
+                "carbs": 0,
+                "fats": 9.6
+            },
+            "entero": {
+                "calorie": 247.2,
+                "protein": 26.4,
+                "carbs": 0,
+                "fats": 14.4
+            }
+        }
+    },
+    {
+        "name": "Pescado Frito",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 260,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 15
+            },
+            "lomo": {
+                "calorie": 220,
+                "protein": 25,
+                "carbs": 0,
+                "fats": 13
+            },
+            "rodaja": {
+                "calorie": 206,
+                "protein": 22,
+                "carbs": 0,
+                "fats": 12
+            },
+            "tajada": {
+                "calorie": 185,
+                "protein": 20,
+                "carbs": 0,
+                "fats": 11
+            },
+            "entero": {
+                "calorie": 275,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 16
+            }
+        }
+    },
+    {
+        "name": "Pescado a la Plancha",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 220,
+                "protein": 26,
+                "carbs": 0,
+                "fats": 12
+            },
+            "lomo": {
+                "calorie": 200,
+                "protein": 24,
+                "carbs": 0,
+                "fats": 10
+            },
+            "rodaja": {
+                "calorie": 185,
+                "protein": 22,
+                "carbs": 0,
+                "fats": 9
+            },
+            "tajada": {
+                "calorie": 170,
+                "protein": 20,
+                "carbs": 0,
+                "fats": 8
+            },
+            "entero": {
+                "calorie": 235,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 13
+            }
+        }
+    },
+    {
+        "name": "Atún en Aceite",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "lata": {
+                "calorie": 200,
+                "protein": 26,
+                "carbs": 0,
+                "fats": 10
+            },
+            "porción": {
+                "calorie": 144,
+                "protein": 23,
+                "carbs": 0,
+                "fats": 4.9
+            },
+            "tajada": {
+                "calorie": 130,
+                "protein": 21,
+                "carbs": 0,
+                "fats": 4.4
+            },
+            "trozo": {
+                "calorie": 115,
+                "protein": 19,
+                "carbs": 0,
+                "fats": 3.9
+            }
+        }
+    },
+    {
+        "name": "Atún al Natural",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "lata": {
+                "calorie": 160,
+                "protein": 25,
+                "carbs": 0,
+                "fats": 4
+            },
+            "porción": {
+                "calorie": 144,
+                "protein": 23,
+                "carbs": 0,
+                "fats": 3.5
+            },
+            "tajada": {
+                "calorie": 120,
+                "protein": 20,
+                "carbs": 0,
+                "fats": 3
+            },
+            "trozo": {
+                "calorie": 100,
+                "protein": 18,
+                "carbs": 0,
+                "fats": 2.5
+            }
+        }
+    },
+    {
+        "name": "Atún a la Plancha",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "lata": {
+                "calorie": 170,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 5
+            },
+            "porción": {
+                "calorie": 144,
+                "protein": 23,
+                "carbs": 0,
+                "fats": 4.9
+            },
+            "tajada": {
+                "calorie": 130,
+                "protein": 22,
+                "carbs": 0,
+                "fats": 4.4
+            },
+            "trozo": {
+                "calorie": 115,
+                "protein": 20,
+                "carbs": 0,
+                "fats": 3.9
+            }
+        }
+    },
+    {
+        "name": "Huevo Frito",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 196,
+                "protein": 14,
+                "carbs": 1.1,
+                "fats": 15
+            },
+            "clara": {
+                "calorie": 17,
+                "protein": 4,
+                "carbs": 0.2,
+                "fats": 0.1
+            },
+            "yema": {
+                "calorie": 60,
+                "protein": 3,
+                "carbs": 0.6,
+                "fats": 5
+            }
+        }
+    },
+    {
+        "name": "Huevo Hervido",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 155,
+                "protein": 13,
+                "carbs": 1.1,
+                "fats": 11
+            },
+            "clara": {
+                "calorie": 16,
+                "protein": 4,
+                "carbs": 0.2,
+                "fats": 0.1
+            },
+            "yema": {
+                "calorie": 55,
+                "protein": 3,
+                "carbs": 0.6,
+                "fats": 4.5
+            }
+        }
+    },
+    {
+        "name": "Huevo Revuelto",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 180,
+                "protein": 14,
+                "carbs": 1.2,
+                "fats": 12
+            },
+            "clara": {
+                "calorie": 18,
+                "protein": 4,
+                "carbs": 0.2,
+                "fats": 0.1
+            },
+            "yema": {
+                "calorie": 65,
+                "protein": 3,
+                "carbs": 0.7,
+                "fats": 5.5
+            }
+        }
+    },
+    {
+        "name": "Pavo Asado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 170,
+                "protein": 33,
+                "carbs": 0,
+                "fats": 6
+            },
+            "muslo": {
+                "calorie": 190,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 8
+            },
+            "filete": {
+                "calorie": 180,
+                "protein": 30,
+                "carbs": 0,
+                "fats": 7
+            },
+            "tajada": {
+                "calorie": 175,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 6.5
+            },
+            "trozo": {
+                "calorie": 189,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 7
+            }
+        }
+    },
+    {
+        "name": "Pavo a la Plancha",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 160,
+                "protein": 34,
+                "carbs": 0,
+                "fats": 5
+            },
+            "muslo": {
+                "calorie": 175,
+                "protein": 30,
+                "carbs": 0,
+                "fats": 7
+            },
+            "filete": {
+                "calorie": 165,
+                "protein": 32,
+                "carbs": 0,
+                "fats": 6
+            },
+            "tajada": {
+                "calorie": 170,
+                "protein": 31,
+                "carbs": 0,
+                "fats": 6.5
+            },
+            "trozo": {
+                "calorie": 180,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 7
+            }
+        }
+    },
+    {
+        "name": "Pavo Guisado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 200,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 9
+            },
+            "muslo": {
+                "calorie": 210,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 10
+            },
+            "filete": {
+                "calorie": 195,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 8
+            },
+            "tajada": {
+                "calorie": 189,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 7
+            },
+            "trozo": {
+                "calorie": 205,
+                "protein": 28,
+                "carbs": 0,
+                "fats": 8.5
+            }
+        }
+    },
+    {
+        "name": "Chocolate Derretido",
+        "category": "Grasas",
+        "measurementUnits": {
+            "barra": {
+                "calorie": 546,
+                "protein": 5,
+                "carbs": 61,
+                "fats": 31
+            },
+            "cuadrado": {
+                "calorie": 273,
+                "protein": 2.5,
+                "carbs": 30.5,
+                "fats": 15.5
+            },
+            "rallado": {
+                "calorie": 136,
+                "protein": 1.25,
+                "carbs": 15.25,
+                "fats": 7.75
+            },
+            "cucharada de polvo": {
+                "calorie": 68,
+                "protein": 0.625,
+                "carbs": 7.625,
+                "fats": 3.875
+            }
+        }
+    },
+    {
+        "name": "Chocolate en Bebida Caliente",
+        "category": "Grasas",
+        "measurementUnits": {
+            "barra": {
+                "calorie": 546,
+                "protein": 5,
+                "carbs": 61,
+                "fats": 31
+            },
+            "cuadrado": {
+                "calorie": 273,
+                "protein": 2.5,
+                "carbs": 30.5,
+                "fats": 15.5
+            },
+            "rallado": {
+                "calorie": 136,
+                "protein": 1.25,
+                "carbs": 15.25,
+                "fats": 7.75
+            },
+            "cucharada de polvo": {
+                "calorie": 68,
+                "protein": 0.625,
+                "carbs": 7.625,
+                "fats": 3.875
+            }
+        }
+    },
+    {
+        "name": "Chocolate en Repostería",
+        "category": "Grasas",
+        "measurementUnits": {
+            "barra": {
+                "calorie": 546,
+                "protein": 5,
+                "carbs": 61,
+                "fats": 31
+            },
+            "cuadrado": {
+                "calorie": 273,
+                "protein": 2.5,
+                "carbs": 30.5,
+                "fats": 15.5
+            },
+            "rallado": {
+                "calorie": 136,
+                "protein": 1.25,
+                "carbs": 15.25,
+                "fats": 7.75
+            },
+            "cucharada de polvo": {
+                "calorie": 68,
+                "protein": 0.625,
+                "carbs": 7.625,
+                "fats": 3.875
+            }
+        }
+    },
+    {
+        "name": "Leche Entera",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 42,
+                "protein": 3.4,
+                "carbs": 5,
+                "fats": 1
+            },
+            "taza": {
+                "calorie": 84,
+                "protein": 6.8,
+                "carbs": 10,
+                "fats": 2
+            },
+            "cucharada": {
+                "calorie": 5.25,
+                "protein": 0.425,
+                "carbs": 0.625,
+                "fats": 0.125
+            },
+            "botella": {
+                "calorie": 168,
+                "protein": 13.6,
+                "carbs": 20,
+                "fats": 4
+            }
+        }
+    },
+    {
+        "name": "Leche Descremada",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 35,
+                "protein": 3.5,
+                "carbs": 5,
+                "fats": 0.1
+            },
+            "taza": {
+                "calorie": 70,
+                "protein": 7,
+                "carbs": 10,
+                "fats": 0.2
+            },
+            "cucharada": {
+                "calorie": 4.375,
+                "protein": 0.4375,
+                "carbs": 0.625,
+                "fats": 0.0125
+            },
+            "botella": {
+                "calorie": 140,
+                "protein": 14,
+                "carbs": 20,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Yogurt Natural",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 59,
+                "protein": 10,
+                "carbs": 3.6,
+                "fats": 0.4
+            },
+            "pote": {
+                "calorie": 118,
+                "protein": 20,
+                "carbs": 7.2,
+                "fats": 0.8
+            },
+            "cucharada": {
+                "calorie": 7.375,
+                "protein": 1.25,
+                "carbs": 0.45,
+                "fats": 0.05
+            },
+            "bol": {
+                "calorie": 236,
+                "protein": 40,
+                "carbs": 14.4,
+                "fats": 1.6
+            }
+        }
+    },
+    {
+        "name": "Yogurt con Frutas",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 89,
+                "protein": 10,
+                "carbs": 15,
+                "fats": 0.6
+            },
+            "pote": {
+                "calorie": 118,
+                "protein": 20,
+                "carbs": 30,
+                "fats": 1.2
+            },
+            "cucharada": {
+                "calorie": 11,
+                "protein": 2,
+                "carbs": 3,
+                "fats": 0.1
+            },
+            "bol": {
+                "calorie": 177,
+                "protein": 40,
+                "carbs": 60,
+                "fats": 2.4
+            }
+        }
+    },
+    {
+        "name": "Queso Blanco Fresco",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 66,
+                "protein": 6.25,
+                "carbs": 0.325,
+                "fats": 5
+            },
+            "trozo": {
+                "calorie": 132,
+                "protein": 12.5,
+                "carbs": 0.65,
+                "fats": 10
+            },
+            "cubito": {
+                "calorie": 33,
+                "protein": 3.125,
+                "carbs": 0.1625,
+                "fats": 2.5
+            },
+            "loncha": {
+                "calorie": 79.2,
+                "protein": 7.5,
+                "carbs": 0.39,
+                "fats": 6
+            }
+        }
+    },
+    {
+        "name": "Queso Blanco Fundido",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 70,
+                "protein": 6.25,
+                "carbs": 0.325,
+                "fats": 5.5
+            },
+            "trozo": {
+                "calorie": 140,
+                "protein": 12.5,
+                "carbs": 0.65,
+                "fats": 11
+            },
+            "cubito": {
+                "calorie": 35,
+                "protein": 3.125,
+                "carbs": 0.1625,
+                "fats": 2.75
+            },
+            "loncha": {
+                "calorie": 84,
+                "protein": 7.5,
+                "carbs": 0.39,
+                "fats": 6.6
+            }
+        }
+    },
+    {
+        "name": "Queso Amarillo en Lonchas",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 101,
+                "protein": 6.25,
+                "carbs": 0.325,
+                "fats": 8.25
+            },
+            "trozo": {
+                "calorie": 201,
+                "protein": 12.5,
+                "carbs": 0.65,
+                "fats": 16.5
+            },
+            "cubito": {
+                "calorie": 50.5,
+                "protein": 3.125,
+                "carbs": 0.1625,
+                "fats": 4.125
+            },
+            "loncha": {
+                "calorie": 120.6,
+                "protein": 7.5,
+                "carbs": 0.39,
+                "fats": 9.9
+            }
+        }
+    },
+    {
+        "name": "Queso Amarillo Fundido",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 105,
+                "protein": 6.25,
+                "carbs": 0.325,
+                "fats": 8.75
+            },
+            "trozo": {
+                "calorie": 210,
+                "protein": 12.5,
+                "carbs": 0.65,
+                "fats": 17.5
+            },
+            "cubito": {
+                "calorie": 52.5,
+                "protein": 3.125,
+                "carbs": 0.1625,
+                "fats": 4.375
+            },
+            "loncha": {
+                "calorie": 126,
+                "protein": 7.5,
+                "carbs": 0.39,
+                "fats": 10.5
+            }
+        }
+    },
+    {
+        "name": "Cerdo Asado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "chuleta": {
+                "calorie": 220,
+                "protein": 25,
+                "carbs": 0,
+                "fats": 13
+            },
+            "costilla": {
+                "calorie": 242,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 14
+            },
+            "lomo": {
+                "calorie": 193,
+                "protein": 22,
+                "carbs": 0,
+                "fats": 11
+            },
+            "tajada": {
+                "calorie": 181,
+                "protein": 20,
+                "carbs": 0,
+                "fats": 10.5
+            },
+            "trozo": {
+                "calorie": 242,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 14
+            }
+        }
+    },
+    {
+        "name": "Cerdo a la Plancha",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "chuleta": {
+                "calorie": 210,
+                "protein": 25,
+                "carbs": 0,
+                "fats": 12
+            },
+            "costilla": {
+                "calorie": 230,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 13
+            },
+            "lomo": {
+                "calorie": 185,
+                "protein": 22,
+                "carbs": 0,
+                "fats": 10
+            },
+            "tajada": {
+                "calorie": 174,
+                "protein": 20,
+                "carbs": 0,
+                "fats": 9.5
+            },
+            "trozo": {
+                "calorie": 230,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 13
+            }
+        }
+    },
+    {
+        "name": "Cerdo Guisado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "chuleta": {
+                "calorie": 225,
+                "protein": 25,
+                "carbs": 1,
+                "fats": 13.5
+            },
+            "costilla": {
+                "calorie": 248,
+                "protein": 27,
+                "carbs": 1,
+                "fats": 14.5
+            },
+            "lomo": {
+                "calorie": 198,
+                "protein": 22,
+                "carbs": 1,
+                "fats": 11.5
+            },
+            "tajada": {
+                "calorie": 186,
+                "protein": 20,
+                "carbs": 1,
+                "fats": 11
+            },
+            "trozo": {
+                "calorie": 248,
+                "protein": 27,
+                "carbs": 1,
+                "fats": 14.5
+            }
+        }
+    },
+    {
+        "name": "Jamón Cocido",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 36,
+                "protein": 5.25,
+                "carbs": 0.35,
+                "fats": 1.75
+            },
+            "tajada": {
+                "calorie": 72,
+                "protein": 10.5,
+                "carbs": 0.7,
+                "fats": 3.5
+            },
+            "loncha": {
+                "calorie": 43.2,
+                "protein": 6.3,
+                "carbs": 0.42,
+                "fats": 2.1
+            },
+            "trozo": {
+                "calorie": 87,
+                "protein": 12.6,
+                "carbs": 0.84,
+                "fats": 4.2
+            }
+        }
+    },
+    {
+        "name": "Jamón Ahumado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 36.25,
+                "protein": 5.25,
+                "carbs": 0.35,
+                "fats": 1.75
+            },
+            "tajada": {
+                "calorie": 72.5,
+                "protein": 10.5,
+                "carbs": 0.7,
+                "fats": 3.5
+            },
+            "loncha": {
+                "calorie": 43.5,
+                "protein": 6.3,
+                "carbs": 0.42,
+                "fats": 2.1
+            },
+            "trozo": {
+                "calorie": 87,
+                "protein": 12.6,
+                "carbs": 0.84,
+                "fats": 4.2
+            }
+        }
+    },
+    {
+        "name": "Tofu Natural",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "bloque": {
+                "calorie": 152,
+                "protein": 16,
+                "carbs": 3.8,
+                "fats": 9.6
+            },
+            "rebanada": {
+                "calorie": 38,
+                "protein": 4,
+                "carbs": 0.95,
+                "fats": 2.4
+            },
+            "trozo": {
+                "calorie": 76,
+                "protein": 8,
+                "carbs": 1.9,
+                "fats": 4.8
+            },
+            "cubito": {
+                "calorie": 19,
+                "protein": 2,
+                "carbs": 0.475,
+                "fats": 1.2
+            }
+        }
+    },
+    {
+        "name": "Tofu Frito",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "bloque": {
+                "calorie": 228,
+                "protein": 16,
+                "carbs": 3.8,
+                "fats": 14.4
+            },
+            "rebanada": {
+                "calorie": 57,
+                "protein": 4,
+                "carbs": 0.95,
+                "fats": 3.6
+            },
+            "trozo": {
+                "calorie": 114,
+                "protein": 8,
+                "carbs": 1.9,
+                "fats": 7.2
+            },
+            "cubito": {
+                "calorie": 28.5,
+                "protein": 2,
+                "carbs": 0.475,
+                "fats": 1.8
+            }
+        }
+    },
+    {
+        "name": "Carne de Soya Hidratada",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "trozo": {
+                "calorie": 336,
+                "protein": 52,
+                "carbs": 33,
+                "fats": 1
+            },
+            "bolita": {
+                "calorie": 168,
+                "protein": 26,
+                "carbs": 16.5,
+                "fats": 0.5
+            },
+            "porción": {
+                "calorie": 84,
+                "protein": 13,
+                "carbs": 8.25,
+                "fats": 0.25
+            }
+        }
+    },
+    {
+        "name": "Carne de Soya en Salsa",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "trozo": {
+                "calorie": 370,
+                "protein": 52,
+                "carbs": 35,
+                "fats": 1.5
+            },
+            "bolita": {
+                "calorie": 185,
+                "protein": 26,
+                "carbs": 17.5,
+                "fats": 0.75
+            },
+            "porción": {
+                "calorie": 92.5,
+                "protein": 13,
+                "carbs": 8.75,
+                "fats": 0.375
+            }
+        }
+    },
+    {
+        "name": "Tempeh Natural",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "bloque": {
+                "calorie": 390,
+                "protein": 40.6,
+                "carbs": 18.8,
+                "fats": 22
+            },
+            "rebanada": {
+                "calorie": 97.5,
+                "protein": 10.15,
+                "carbs": 4.7,
+                "fats": 5.5
+            },
+            "trozo": {
+                "calorie": 195,
+                "protein": 20.3,
+                "carbs": 9.4,
+                "fats": 11
+            }
+        }
+    },
+    {
+        "name": "Tempeh Frito",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "bloque": {
+                "calorie": 450,
+                "protein": 40.6,
+                "carbs": 18.8,
+                "fats": 26
+            },
+            "rebanada": {
+                "calorie": 112.5,
+                "protein": 10.15,
+                "carbs": 4.7,
+                "fats": 6.5
+            },
+            "trozo": {
+                "calorie": 225,
+                "protein": 20.3,
+                "carbs": 9.4,
+                "fats": 13
+            }
+        }
+    },
+    {
+        "name": "Seitán al Natural",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 370,
+                "protein": 75,
+                "carbs": 14,
+                "fats": 1.9
+            },
+            "trozo": {
+                "calorie": 185,
+                "protein": 37.5,
+                "carbs": 7,
+                "fats": 0.95
+            },
+            "porción": {
+                "calorie": 92.5,
+                "protein": 18.75,
+                "carbs": 3.5,
+                "fats": 0.475
+            }
+        }
+    },
+    {
+        "name": "Seitán Guisado",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 385,
+                "protein": 75,
+                "carbs": 15,
+                "fats": 2
+            },
+            "trozo": {
+                "calorie": 192.5,
+                "protein": 37.5,
+                "carbs": 7.5,
+                "fats": 1
+            },
+            "porción": {
+                "calorie": 96.25,
+                "protein": 18.75,
+                "carbs": 3.75,
+                "fats": 0.5
+            }
+        }
+    },
+    {
+        "name": "Proteína en Polvo Natural",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 50,
+                "protein": 10,
+                "carbs": 0.875,
+                "fats": 0.375
+            },
+            "scoop": {
+                "calorie": 100,
+                "protein": 20,
+                "carbs": 1.75,
+                "fats": 0.75
+            },
+            "porción": {
+                "calorie": 200,
+                "protein": 40,
+                "carbs": 3.5,
+                "fats": 1.5
+            }
+        }
+    },
+    {
+        "name": "Proteína en Polvo Mezclada",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 50,
+                "protein": 10,
+                "carbs": 0.875,
+                "fats": 0.375
+            },
+            "scoop": {
+                "calorie": 100,
+                "protein": 20,
+                "carbs": 1.75,
+                "fats": 0.75
+            },
+            "porción": {
+                "calorie": 200,
+                "protein": 40,
+                "carbs": 3.5,
+                "fats": 1.5
+            }
+        }
+    },
+    {
+        "name": "Arroz Blanco Cocido",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 130,
+                "protein": 2.7,
+                "carbs": 28,
+                "fats": 0.3
+            },
+            "puñado": {
+                "calorie": 65,
+                "protein": 1.35,
+                "carbs": 14,
+                "fats": 0.15
+            },
+            "cucharada": {
+                "calorie": 32.5,
+                "protein": 0.675,
+                "carbs": 7,
+                "fats": 0.075
+            },
+            "bol": {
+                "calorie": 260,
+                "protein": 5.4,
+                "carbs": 56,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Arroz Integral Cocido",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 130,
+                "protein": 2.7,
+                "carbs": 28,
+                "fats": 0.3
+            },
+            "puñado": {
+                "calorie": 65,
+                "protein": 1.35,
+                "carbs": 14,
+                "fats": 0.15
+            },
+            "cucharada": {
+                "calorie": 32.5,
+                "protein": 0.675,
+                "carbs": 7,
+                "fats": 0.075
+            },
+            "bol": {
+                "calorie": 260,
+                "protein": 5.4,
+                "carbs": 56,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Papa Cocida",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 77,
+                "protein": 2,
+                "carbs": 17,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 15.4,
+                "protein": 0.4,
+                "carbs": 3.4,
+                "fats": 0.02
+            },
+            "trozo": {
+                "calorie": 38.5,
+                "protein": 1,
+                "carbs": 8.5,
+                "fats": 0.05
+            },
+            "media papa": {
+                "calorie": 38.5,
+                "protein": 1,
+                "carbs": 8.5,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Papa Frita",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 154,
+                "protein": 2,
+                "carbs": 34,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 30.8,
+                "protein": 0.4,
+                "carbs": 6.8,
+                "fats": 0.04
+            },
+            "trozo": {
+                "calorie": 77,
+                "protein": 1,
+                "carbs": 17,
+                "fats": 0.1
+            },
+            "media papa": {
+                "calorie": 77,
+                "protein": 1,
+                "carbs": 17,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Batata Asada",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad asada": {
+                "calorie": 180,
+                "protein": 3.2,
+                "carbs": 41.4,
+                "fats": 0.2
+            },
+            "rodaja asada": {
+                "calorie": 36,
+                "protein": 0.64,
+                "carbs": 8.28,
+                "fats": 0.04
+            },
+            "trozo asado": {
+                "calorie": 90,
+                "protein": 1.6,
+                "carbs": 20.7,
+                "fats": 0.1
+            },
+            "media batata asada": {
+                "calorie": 90,
+                "protein": 1.6,
+                "carbs": 20.7,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Batata Hervida",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad hervida": {
+                "calorie": 152,
+                "protein": 2.8,
+                "carbs": 36,
+                "fats": 0.2
+            },
+            "rodaja hervida": {
+                "calorie": 30.4,
+                "protein": 0.56,
+                "carbs": 7.2,
+                "fats": 0.04
+            },
+            "trozo hervido": {
+                "calorie": 76,
+                "protein": 1.4,
+                "carbs": 18,
+                "fats": 0.1
+            },
+            "media batata hervida": {
+                "calorie": 76,
+                "protein": 1.4,
+                "carbs": 18,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Yuca Frita",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "trozo frito": {
+                "calorie": 700,
+                "protein": 2.8,
+                "carbs": 116,
+                "fats": 30
+            },
+            "rodaja frita": {
+                "calorie": 350,
+                "protein": 1.4,
+                "carbs": 58,
+                "fats": 15
+            },
+            "porción frita": {
+                "calorie": 525,
+                "protein": 2.1,
+                "carbs": 87,
+                "fats": 22.5
+            },
+            "media yuca frita": {
+                "calorie": 525,
+                "protein": 2.1,
+                "carbs": 87,
+                "fats": 22.5
+            }
+        }
+    },
+    {
+        "name": "Yuca Hervida",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "trozo hervido": {
+                "calorie": 120,
+                "protein": 1.4,
+                "carbs": 28,
+                "fats": 0.3
+            },
+            "rodaja hervida": {
+                "calorie": 60,
+                "protein": 0.7,
+                "carbs": 14,
+                "fats": 0.15
+            },
+            "porción hervida": {
+                "calorie": 240,
+                "protein": 2.8,
+                "carbs": 56,
+                "fats": 0.6
+            },
+            "media yuca hervida": {
+                "calorie": 60,
+                "protein": 0.7,
+                "carbs": 14,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Lentejas Cocidas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza de lentejas cocidas": {
+                "calorie": 116,
+                "protein": 9,
+                "carbs": 20,
+                "fats": 0.4
+            },
+            "cucharada de lentejas cocidas": {
+                "calorie": 14.5,
+                "protein": 1.125,
+                "carbs": 2.5,
+                "fats": 0.05
+            },
+            "puñado de lentejas cocidas": {
+                "calorie": 58,
+                "protein": 4.5,
+                "carbs": 10,
+                "fats": 0.2
+            },
+            "bol de lentejas cocidas": {
+                "calorie": 232,
+                "protein": 18,
+                "carbs": 40,
+                "fats": 0.8
+            }
+        }
+    },
+    {
+        "name": "Frijoles Cocidos",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza de frijoles cocidos": {
+                "calorie": 347,
+                "protein": 21,
+                "carbs": 63,
+                "fats": 1.2
+            },
+            "cucharada de frijoles cocidos": {
+                "calorie": 43.375,
+                "protein": 2.625,
+                "carbs": 7.875,
+                "fats": 0.15
+            },
+            "puñado de frijoles cocidos": {
+                "calorie": 173.5,
+                "protein": 10.5,
+                "carbs": 31.5,
+                "fats": 0.6
+            },
+            "bol de frijoles cocidos": {
+                "calorie": 694,
+                "protein": 42,
+                "carbs": 126,
+                "fats": 2.4
+            }
+        }
+    },
+    {
+        "name": "Garbanzos Cocidos",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza de garbanzos cocidos": {
+                "calorie": 364,
+                "protein": 19,
+                "carbs": 61,
+                "fats": 6
+            },
+            "cucharada de garbanzos cocidos": {
+                "calorie": 45.5,
+                "protein": 2.375,
+                "carbs": 7.625,
+                "fats": 0.75
+            },
+            "puñado de garbanzos cocidos": {
+                "calorie": 182,
+                "protein": 9.5,
+                "carbs": 30.5,
+                "fats": 3
+            },
+            "bol de garbanzos cocidos": {
+                "calorie": 728,
+                "protein": 38,
+                "carbs": 122,
+                "fats": 12
+            }
+        }
+    },
+    {
+        "name": "Arvejas Cocidas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza de arvejas cocidas": {
+                "calorie": 81,
+                "protein": 5,
+                "carbs": 14,
+                "fats": 0.4
+            },
+            "cucharada de arvejas cocidas": {
+                "calorie": 10.125,
+                "protein": 0.625,
+                "carbs": 1.75,
+                "fats": 0.05
+            },
+            "puñado de arvejas cocidas": {
+                "calorie": 40.5,
+                "protein": 2.5,
+                "carbs": 7,
+                "fats": 0.2
+            },
+            "bol de arvejas cocidas": {
+                "calorie": 162,
+                "protein": 10,
+                "carbs": 28,
+                "fats": 0.8
+            }
+        }
+    },
+    {
+        "name": "Habichuelas Cocidas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 31,
+                "protein": 1.8,
+                "carbs": 7,
+                "fats": 0.1
+            },
+            "cucharada": {
+                "calorie": 3.875,
+                "protein": 0.225,
+                "carbs": 0.875,
+                "fats": 0.0125
+            },
+            "puñado": {
+                "calorie": 15.5,
+                "protein": 0.9,
+                "carbs": 3.5,
+                "fats": 0.05
+            },
+            "bol": {
+                "calorie": 62,
+                "protein": 3.6,
+                "carbs": 14,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Bebida de Almendras Natural",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 15,
+                "protein": 0.5,
+                "carbs": 0.6,
+                "fats": 1.1
+            },
+            "taza": {
+                "calorie": 30,
+                "protein": 1,
+                "carbs": 1.2,
+                "fats": 2.2
+            },
+            "botella": {
+                "calorie": 60,
+                "protein": 2,
+                "carbs": 2.4,
+                "fats": 4.4
+            },
+            "cucharada": {
+                "calorie": 1.875,
+                "protein": 0.0625,
+                "carbs": 0.075,
+                "fats": 0.1375
+            }
+        }
+    },
+    {
+        "name": "Bebida de Soya Natural",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 33,
+                "protein": 2.9,
+                "carbs": 1.7,
+                "fats": 1.8
+            },
+            "taza": {
+                "calorie": 66,
+                "protein": 5.8,
+                "carbs": 3.4,
+                "fats": 3.6
+            },
+            "botella": {
+                "calorie": 132,
+                "protein": 11.6,
+                "carbs": 6.8,
+                "fats": 7.2
+            },
+            "cucharada": {
+                "calorie": 4.125,
+                "protein": 0.3625,
+                "carbs": 0.2125,
+                "fats": 0.225
+            }
+        }
+    },
+    {
+        "name": "Bebida de Coco Natural",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 46,
+                "protein": 0.5,
+                "carbs": 2,
+                "fats": 4.5
+            },
+            "taza": {
+                "calorie": 92,
+                "protein": 1,
+                "carbs": 4,
+                "fats": 9
+            },
+            "botella": {
+                "calorie": 184,
+                "protein": 2,
+                "carbs": 8,
+                "fats": 18
+            },
+            "cucharada": {
+                "calorie": 5.75,
+                "protein": 0.0625,
+                "carbs": 0.25,
+                "fats": 0.5625
+            }
+        }
+    },
+    {
+        "name": "Banano Fresco",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 89,
+                "protein": 1.1,
+                "carbs": 23,
+                "fats": 0.3
+            },
+            "rodaja": {
+                "calorie": 11,
+                "protein": 0.1375,
+                "carbs": 2.875,
+                "fats": 0.0375
+            },
+            "trozo": {
+                "calorie": 44.5,
+                "protein": 0.55,
+                "carbs": 11.5,
+                "fats": 0.15
+            },
+            "mitad": {
+                "calorie": 44.5,
+                "protein": 0.55,
+                "carbs": 11.5,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Fresas Frescas",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 4,
+                "protein": 0.0875,
+                "carbs": 0.9625,
+                "fats": 0.0375
+            },
+            "taza": {
+                "calorie": 32,
+                "protein": 0.7,
+                "carbs": 7.7,
+                "fats": 0.3
+            },
+            "bol": {
+                "calorie": 64,
+                "protein": 1.4,
+                "carbs": 15.4,
+                "fats": 0.6
+            },
+            "cucharada": {
+                "calorie": 4,
+                "protein": 0.0875,
+                "carbs": 0.9625,
+                "fats": 0.0375
+            }
+        }
+    },
+    {
+        "name": "Quinua Cocida",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 120,
+                "protein": 4.1,
+                "carbs": 21,
+                "fats": 1.9
+            },
+            "cucharada": {
+                "calorie": 15,
+                "protein": 0.5125,
+                "carbs": 2.625,
+                "fats": 0.2375
+            },
+            "puñado": {
+                "calorie": 60,
+                "protein": 2.05,
+                "carbs": 10.5,
+                "fats": 0.95
+            },
+            "bol": {
+                "calorie": 240,
+                "protein": 8.2,
+                "carbs": 42,
+                "fats": 3.8
+            }
+        }
+    },
+    {
+        "name": "Pasta Cocida",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "porción cocida": {
+                "calorie": 131,
+                "protein": 5,
+                "carbs": 25,
+                "fats": 1.1
+            },
+            "taza": {
+                "calorie": 65.5,
+                "protein": 2.5,
+                "carbs": 12.5,
+                "fats": 0.55
+            },
+            "puñado": {
+                "calorie": 32.75,
+                "protein": 1.25,
+                "carbs": 6.25,
+                "fats": 0.275
+            },
+            "plato": {
+                "calorie": 262,
+                "protein": 10,
+                "carbs": 50,
+                "fats": 2.2
+            }
+        }
+    },
+    {
+        "name": "Mazorca Cocida",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 86,
+                "protein": 3.2,
+                "carbs": 19,
+                "fats": 1.2
+            },
+            "mitad": {
+                "calorie": 43,
+                "protein": 1.6,
+                "carbs": 9.5,
+                "fats": 0.6
+            },
+            "trozo": {
+                "calorie": 21.5,
+                "protein": 0.8,
+                "carbs": 4.75,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Crispetas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 375,
+                "protein": 11,
+                "carbs": 74,
+                "fats": 4.3
+            },
+            "bol": {
+                "calorie": 750,
+                "protein": 22,
+                "carbs": 148,
+                "fats": 8.6
+            },
+            "puñado": {
+                "calorie": 187.5,
+                "protein": 5.5,
+                "carbs": 37,
+                "fats": 2.15
+            },
+            "bolsa": {
+                "calorie": 1500,
+                "protein": 44,
+                "carbs": 296,
+                "fats": 17.2
+            }
+        }
+    },
+    {
+        "name": "Avena Cocida",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 389,
+                "protein": 17,
+                "carbs": 66,
+                "fats": 7
+            },
+            "cucharada": {
+                "calorie": 48.625,
+                "protein": 2.125,
+                "carbs": 8.25,
+                "fats": 0.875
+            },
+            "bol": {
+                "calorie": 778,
+                "protein": 34,
+                "carbs": 132,
+                "fats": 14
+            },
+            "porción": {
+                "calorie": 194.5,
+                "protein": 8.5,
+                "carbs": 33,
+                "fats": 3.5
+            }
+        }
+    },
+    {
+        "name": "Pan Tostado",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 265,
+                "protein": 9,
+                "carbs": 49,
+                "fats": 3.3
+            },
+            "rodaja": {
+                "calorie": 132.5,
+                "protein": 4.5,
+                "carbs": 24.5,
+                "fats": 1.65
+            },
+            "pieza": {
+                "calorie": 530,
+                "protein": 18,
+                "carbs": 98,
+                "fats": 6.6
+            },
+            "mitad": {
+                "calorie": 132.5,
+                "protein": 4.5,
+                "carbs": 24.5,
+                "fats": 1.65
+            }
+        }
+    },
+    {
+        "name": "Tortilla de Maíz",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 218,
+                "protein": 6,
+                "carbs": 46,
+                "fats": 2.5
+            },
+            "pieza": {
+                "calorie": 109,
+                "protein": 3,
+                "carbs": 23,
+                "fats": 1.25
+            },
+            "mitad": {
+                "calorie": 109,
+                "protein": 3,
+                "carbs": 23,
+                "fats": 1.25
+            },
+            "trozo": {
+                "calorie": 54.5,
+                "protein": 1.5,
+                "carbs": 11.5,
+                "fats": 0.625
+            }
+        }
+    },
+    {
+        "name": "Cereal Integral",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 363,
+                "protein": 6,
+                "carbs": 77,
+                "fats": 1.3
+            },
+            "bol": {
+                "calorie": 726,
+                "protein": 12,
+                "carbs": 154,
+                "fats": 2.6
+            },
+            "cucharada": {
+                "calorie": 45.375,
+                "protein": 0.75,
+                "carbs": 9.625,
+                "fats": 0.1625
+            },
+            "puñado": {
+                "calorie": 181.5,
+                "protein": 3,
+                "carbs": 38.5,
+                "fats": 0.65
+            }
+        }
+    },
+    {
+        "name": "Aguacate Maduro",
+        "category": "Grasas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 160,
+                "protein": 2,
+                "carbs": 9,
+                "fats": 15
+            },
+            "rodaja": {
+                "calorie": 20,
+                "protein": 0.25,
+                "carbs": 1.125,
+                "fats": 1.875
+            },
+            "tajada": {
+                "calorie": 40,
+                "protein": 0.5,
+                "carbs": 2.25,
+                "fats": 3.75
+            },
+            "mitad": {
+                "calorie": 80,
+                "protein": 1,
+                "carbs": 4.5,
+                "fats": 7.5
+            }
+        }
+    },
+    {
+        "name": "Maní Tostado",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 283.5,
+                "protein": 13,
+                "carbs": 8,
+                "fats": 24.5
+            },
+            "cucharada": {
+                "calorie": 70.875,
+                "protein": 3.25,
+                "carbs": 2,
+                "fats": 6.125
+            },
+            "taza": {
+                "calorie": 1134,
+                "protein": 52,
+                "carbs": 32,
+                "fats": 98
+            },
+            "bol": {
+                "calorie": 2268,
+                "protein": 104,
+                "carbs": 64,
+                "fats": 196
+            }
+        }
+    },
+    {
+        "name": "Almendras Tostadas",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 289.5,
+                "protein": 10.5,
+                "carbs": 11,
+                "fats": 25
+            },
+            "unidad": {
+                "calorie": 5.79,
+                "protein": 0.21,
+                "carbs": 0.22,
+                "fats": 0.5
+            },
+            "taza": {
+                "calorie": 1158,
+                "protein": 42,
+                "carbs": 44,
+                "fats": 100
+            },
+            "bol": {
+                "calorie": 2316,
+                "protein": 84,
+                "carbs": 88,
+                "fats": 200
+            }
+        }
+    },
+    {
+        "name": "Pecanas Tostadas",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 345.5,
+                "protein": 4.5,
+                "carbs": 7,
+                "fats": 36
+            },
+            "unidad": {
+                "calorie": 6.91,
+                "protein": 0.09,
+                "carbs": 0.14,
+                "fats": 0.72
+            },
+            "taza": {
+                "calorie": 1382,
+                "protein": 18,
+                "carbs": 28,
+                "fats": 144
+            },
+            "bol": {
+                "calorie": 2764,
+                "protein": 36,
+                "carbs": 56,
+                "fats": 288
+            }
+        }
+    },
+    {
+        "name": "Marañones Tostados",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 276.5,
+                "protein": 9,
+                "carbs": 15,
+                "fats": 22
+            },
+            "unidad": {
+                "calorie": 5.53,
+                "protein": 0.18,
+                "carbs": 0.3,
+                "fats": 0.44
+            },
+            "taza": {
+                "calorie": 1106,
+                "protein": 36,
+                "carbs": 60,
+                "fats": 88
+            },
+            "bol": {
+                "calorie": 2212,
+                "protein": 72,
+                "carbs": 120,
+                "fats": 176
+            }
+        }
+    },
+    {
+        "name": "Nueces Tostadas",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 327,
+                "protein": 7.5,
+                "carbs": 7,
+                "fats": 32.5
+            },
+            "unidad": {
+                "calorie": 6.54,
+                "protein": 0.15,
+                "carbs": 0.14,
+                "fats": 0.65
+            },
+            "taza": {
+                "calorie": 1308,
+                "protein": 30,
+                "carbs": 28,
+                "fats": 130
+            },
+            "bol": {
+                "calorie": 2616,
+                "protein": 60,
+                "carbs": 56,
+                "fats": 260
+            }
+        }
+    },
+    {
+        "name": "Aceitunas",
+        "category": "Grasas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 11.5,
+                "protein": 0.08,
+                "carbs": 0.6,
+                "fats": 1.1
+            },
+            "taza": {
+                "calorie": 230,
+                "protein": 1.6,
+                "carbs": 12,
+                "fats": 22
+            },
+            "puñado": {
+                "calorie": 57.5,
+                "protein": 0.4,
+                "carbs": 3,
+                "fats": 5.5
+            },
+            "bol": {
+                "calorie": 115,
+                "protein": 0.8,
+                "carbs": 6,
+                "fats": 11
+            }
+        }
+    },
+    {
+        "name": "Semillas de Chía",
+        "category": "Grasas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 60.75,
+                "protein": 2.125,
+                "carbs": 5.25,
+                "fats": 3.875
+            },
+            "taza": {
+                "calorie": 1215,
+                "protein": 42.5,
+                "carbs": 105,
+                "fats": 77.5
+            },
+            "puñado": {
+                "calorie": 243,
+                "protein": 8.5,
+                "carbs": 21,
+                "fats": 15.5
+            },
+            "bol": {
+                "calorie": 486,
+                "protein": 17,
+                "carbs": 42,
+                "fats": 31
+            }
+        }
+    },
+    {
+        "name": "Manzana",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 52,
+                "protein": 0.3,
+                "carbs": 14,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 6.5,
+                "protein": 0.0375,
+                "carbs": 1.75,
+                "fats": 0.025
+            },
+            "trozo": {
+                "calorie": 13,
+                "protein": 0.075,
+                "carbs": 3.5,
+                "fats": 0.05
+            },
+            "mitad": {
+                "calorie": 26,
+                "protein": 0.15,
+                "carbs": 7,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Arándanos Frescos",
+        "category": "Frutas",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 57,
+                "protein": 0.7,
+                "carbs": 14,
+                "fats": 0.3
+            },
+            "puñado": {
+                "calorie": 28.5,
+                "protein": 0.35,
+                "carbs": 7,
+                "fats": 0.15
+            },
+            "bol": {
+                "calorie": 114,
+                "protein": 1.4,
+                "carbs": 28,
+                "fats": 0.6
+            },
+            "cucharada": {
+                "calorie": 7.125,
+                "protein": 0.0875,
+                "carbs": 1.75,
+                "fats": 0.0375
+            }
+        }
+    },
+    {
+        "name": "Piña Natural",
+        "category": "Frutas",
+        "measurementUnits": {
+            "rodaja": {
+                "calorie": 25,
+                "protein": 0.25,
+                "carbs": 6.5,
+                "fats": 0.05
+            },
+            "trozo": {
+                "calorie": 12.5,
+                "protein": 0.125,
+                "carbs": 3.25,
+                "fats": 0.025
+            },
+            "taza en cubos": {
+                "calorie": 50,
+                "protein": 0.5,
+                "carbs": 13,
+                "fats": 0.1
+            },
+            "mitad": {
+                "calorie": 100,
+                "protein": 1,
+                "carbs": 26,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Papaya Fresca",
+        "category": "Frutas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 21.5,
+                "protein": 0,
+                "carbs": 5.5,
+                "fats": 0.15
+            },
+            "trozo": {
+                "calorie": 10.75,
+                "protein": 0,
+                "carbs": 2.75,
+                "fats": 0.075
+            },
+            "taza en cubos": {
+                "calorie": 43,
+                "protein": 0,
+                "carbs": 11,
+                "fats": 0.3
+            },
+            "mitad": {
+                "calorie": 86,
+                "protein": 0,
+                "carbs": 22,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Mandarina",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 53,
+                "protein": 0.8,
+                "carbs": 13,
+                "fats": 0.3
+            },
+            "gajo": {
+                "calorie": 6.625,
+                "protein": 0.1,
+                "carbs": 1.625,
+                "fats": 0.0375
+            },
+            "taza en gajos": {
+                "calorie": 53,
+                "protein": 0.8,
+                "carbs": 13,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Naranja Natural",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 47,
+                "protein": 0.9,
+                "carbs": 12,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 5.875,
+                "protein": 0.1125,
+                "carbs": 1.5,
+                "fats": 0.0125
+            },
+            "taza en gajos": {
+                "calorie": 47,
+                "protein": 0.9,
+                "carbs": 12,
+                "fats": 0.1
+            },
+            "mitad": {
+                "calorie": 23.5,
+                "protein": 0.45,
+                "carbs": 6,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Kiwi Fresco",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 61,
+                "protein": 1.1,
+                "carbs": 15,
+                "fats": 0.5
+            },
+            "rodaja": {
+                "calorie": 7.625,
+                "protein": 0.1375,
+                "carbs": 1.875,
+                "fats": 0.0625
+            },
+            "mitad": {
+                "calorie": 30.5,
+                "protein": 0.55,
+                "carbs": 7.5,
+                "fats": 0.25
+            }
+        }
+    },
+    {
+        "name": "Mango Natural",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 60,
+                "protein": 0.8,
+                "carbs": 15,
+                "fats": 0.4
+            },
+            "rebanada": {
+                "calorie": 15,
+                "protein": 0.2,
+                "carbs": 3.75,
+                "fats": 0.1
+            },
+            "trozo": {
+                "calorie": 30,
+                "protein": 0.4,
+                "carbs": 7.5,
+                "fats": 0.2
+            },
+            "taza en cubos": {
+                "calorie": 60,
+                "protein": 0.8,
+                "carbs": 15,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Sandía Fresca",
+        "category": "Frutas",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 15,
+                "protein": 0.3,
+                "carbs": 4,
+                "fats": 0.1
+            },
+            "trozo": {
+                "calorie": 7.5,
+                "protein": 0.15,
+                "carbs": 2,
+                "fats": 0.05
+            },
+            "taza en cubos": {
+                "calorie": 30,
+                "protein": 0.6,
+                "carbs": 8,
+                "fats": 0.2
+            },
+            "mitad": {
+                "calorie": 60,
+                "protein": 1.2,
+                "carbs": 16,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Pera Fresca",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 57,
+                "protein": 0.4,
+                "carbs": 15,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 7.125,
+                "protein": 0.05,
+                "carbs": 1.875,
+                "fats": 0.0125
+            },
+            "trozo": {
+                "calorie": 14.25,
+                "protein": 0.1,
+                "carbs": 3.75,
+                "fats": 0.025
+            },
+            "mitad": {
+                "calorie": 28.5,
+                "protein": 0.2,
+                "carbs": 7.5,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Durazno Fresco",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 39,
+                "protein": 0.9,
+                "carbs": 10,
+                "fats": 0.3
+            },
+            "rebanada": {
+                "calorie": 4.875,
+                "protein": 0.1125,
+                "carbs": 1.25,
+                "fats": 0.0375
+            },
+            "mitad": {
+                "calorie": 19.5,
+                "protein": 0.45,
+                "carbs": 5,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Uvas Frescas",
+        "category": "Frutas",
+        "measurementUnits": {
+            "racimo": {
+                "calorie": 69,
+                "protein": 0.7,
+                "carbs": 18,
+                "fats": 0.2
+            },
+            "unidad": {
+                "calorie": 0.69,
+                "protein": 0.007,
+                "carbs": 0.18,
+                "fats": 0.002
+            },
+            "taza": {
+                "calorie": 69,
+                "protein": 0.7,
+                "carbs": 18,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Granadilla",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 97,
+                "protein": 0.4,
+                "carbs": 23,
+                "fats": 0.7
+            },
+            "mitad": {
+                "calorie": 48.5,
+                "protein": 0.2,
+                "carbs": 11.5,
+                "fats": 0.35
+            },
+            "cucharada de pulpa": {
+                "calorie": 12.125,
+                "protein": 0.05,
+                "carbs": 2.875,
+                "fats": 0.0875
+            }
+        }
+    },
+    {
+        "name": "Melón Fresco",
+        "category": "Frutas",
+        "measurementUnits": {
+            "rodaja": {
+                "calorie": 17,
+                "protein": 0.4,
+                "carbs": 4,
+                "fats": 0.1
+            },
+            "tajada": {
+                "calorie": 8.5,
+                "protein": 0.2,
+                "carbs": 2,
+                "fats": 0.05
+            },
+            "trozo": {
+                "calorie": 4.25,
+                "protein": 0.1,
+                "carbs": 1,
+                "fats": 0.025
+            },
+            "cubos": {
+                "calorie": 34,
+                "protein": 0.8,
+                "carbs": 8,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Dátiles",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 20,
+                "protein": 0.1,
+                "carbs": 5,
+                "fats": 0.01
+            },
+            "taza de picados": {
+                "calorie": 277,
+                "protein": 1.8,
+                "carbs": 75,
+                "fats": 0.2
+            },
+            "puñado": {
+                "calorie": 138.5,
+                "protein": 0.9,
+                "carbs": 37.5,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Pitahaya",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 50,
+                "protein": 1.5,
+                "carbs": 13,
+                "fats": 0.1
+            },
+            "mitad": {
+                "calorie": 25,
+                "protein": 0.75,
+                "carbs": 6.5,
+                "fats": 0.05
+            },
+            "tajada": {
+                "calorie": 12.5,
+                "protein": 0.375,
+                "carbs": 3.25,
+                "fats": 0.025
+            }
+        }
+    },
+    {
+        "name": "Pan Integral",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 83.3,
+                "protein": 4.3,
+                "carbs": 13.7,
+                "fats": 1.5
+            },
+            "rodaja": {
+                "calorie": 125,
+                "protein": 6.5,
+                "carbs": 20.5,
+                "fats": 2.25
+            },
+            "trozo": {
+                "calorie": 62.5,
+                "protein": 3.25,
+                "carbs": 10.25,
+                "fats": 1.125
+            }
+        }
+    },
+    {
+        "name": "Mantequilla",
+        "category": "Grasas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 102.43,
+                "protein": 0.12,
+                "carbs": 0.01,
+                "fats": 11.52
+            },
+            "trozo": {
+                "calorie": 143.4,
+                "protein": 0.18,
+                "carbs": 0.015,
+                "fats": 16.2
+            },
+            "cucharadita": {
+                "calorie": 34.14,
+                "protein": 0.04,
+                "carbs": 0.003,
+                "fats": 3.84
+            },
+            "barra": {
+                "calorie": 717,
+                "protein": 0.9,
+                "carbs": 0.1,
+                "fats": 81
+            }
+        }
+    },
+    {
+        "name": "Queso Fresco",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 74.75,
+                "protein": 4.5,
+                "carbs": 0.775,
+                "fats": 6
+            },
+            "trozo": {
+                "calorie": 149.5,
+                "protein": 9,
+                "carbs": 1.55,
+                "fats": 12
+            },
+            "cubito": {
+                "calorie": 29.9,
+                "protein": 1.8,
+                "carbs": 0.31,
+                "fats": 2.4
+            },
+            "loncha": {
+                "calorie": 59.8,
+                "protein": 3.6,
+                "carbs": 0.62,
+                "fats": 4.8
+            }
+        }
+    },
+    {
+        "name": "Tomate Fresco",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 18,
+                "protein": 0.9,
+                "carbs": 3.9,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 3.6,
+                "protein": 0.18,
+                "carbs": 0.78,
+                "fats": 0.04
+            },
+            "tajada": {
+                "calorie": 9,
+                "protein": 0.45,
+                "carbs": 1.95,
+                "fats": 0.1
+            },
+            "trozo": {
+                "calorie": 4.5,
+                "protein": 0.225,
+                "carbs": 0.975,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Espinaca Cruda",
+        "category": "Verduras",
+        "measurementUnits": {
+            "hoja": {
+                "calorie": 0.23,
+                "protein": 0.029,
+                "carbs": 0.036,
+                "fats": 0.004
+            },
+            "puñado": {
+                "calorie": 4.6,
+                "protein": 0.58,
+                "carbs": 0.72,
+                "fats": 0.08
+            },
+            "taza de hojas": {
+                "calorie": 11.5,
+                "protein": 1.45,
+                "carbs": 1.8,
+                "fats": 0.2
+            },
+            "ramo": {
+                "calorie": 23,
+                "protein": 2.9,
+                "carbs": 3.6,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Zanahoria Cruda",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 41,
+                "protein": 0.9,
+                "carbs": 10,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 2.05,
+                "protein": 0.045,
+                "carbs": 0.5,
+                "fats": 0.01
+            },
+            "rallada": {
+                "calorie": 20.5,
+                "protein": 0.45,
+                "carbs": 5,
+                "fats": 0.1
+            },
+            "trozo": {
+                "calorie": 10.25,
+                "protein": 0.225,
+                "carbs": 2.5,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Calabacín",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 17,
+                "protein": 1.2,
+                "carbs": 3.1,
+                "fats": 0.3
+            },
+            "rodaja": {
+                "calorie": 1.7,
+                "protein": 0.12,
+                "carbs": 0.31,
+                "fats": 0.03
+            },
+            "trozo": {
+                "calorie": 8.5,
+                "protein": 0.6,
+                "carbs": 1.55,
+                "fats": 0.15
+            },
+            "mitad": {
+                "calorie": 8.5,
+                "protein": 0.6,
+                "carbs": 1.55,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Brócoli Crudo",
+        "category": "Verduras",
+        "measurementUnits": {
+            "ramillete": {
+                "calorie": 34,
+                "protein": 2.8,
+                "carbs": 6.6,
+                "fats": 0.4
+            },
+            "taza de floretes": {
+                "calorie": 20,
+                "protein": 1.68,
+                "carbs": 3.96,
+                "fats": 0.24
+            },
+            "tallo": {
+                "calorie": 10,
+                "protein": 0.84,
+                "carbs": 1.98,
+                "fats": 0.12
+            },
+            "trozo": {
+                "calorie": 5,
+                "protein": 0.42,
+                "carbs": 0.99,
+                "fats": 0.06
+            }
+        }
+    },
+    {
+        "name": "Lomo de Cerdo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 242,
+                "protein": 27,
+                "carbs": 0,
+                "fats": 14
+            },
+            "tajada": {
+                "calorie": 121,
+                "protein": 13.5,
+                "carbs": 0,
+                "fats": 7
+            },
+            "trozo": {
+                "calorie": 60.5,
+                "protein": 6.75,
+                "carbs": 0,
+                "fats": 3.5
+            },
+            "porción": {
+                "calorie": 30.25,
+                "protein": 3.375,
+                "carbs": 0,
+                "fats": 1.75
+            }
+        }
+    },
+    {
+        "name": "Salmón Fresco",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 208,
+                "protein": 20,
+                "carbs": 0,
+                "fats": 13
+            },
+            "rodaja": {
+                "calorie": 104,
+                "protein": 10,
+                "carbs": 0,
+                "fats": 6.5
+            },
+            "trozo": {
+                "calorie": 52,
+                "protein": 5,
+                "carbs": 0,
+                "fats": 3.25
+            },
+            "porción": {
+                "calorie": 26,
+                "protein": 2.5,
+                "carbs": 0,
+                "fats": 1.625
+            }
+        }
+    },
+    {
+        "name": "Plátano Maduro",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 89,
+                "protein": 1.1,
+                "carbs": 23,
+                "fats": 0.3
+            },
+            "rodaja": {
+                "calorie": 8.9,
+                "protein": 0.11,
+                "carbs": 2.3,
+                "fats": 0.03
+            },
+            "trozo": {
+                "calorie": 44.5,
+                "protein": 0.55,
+                "carbs": 11.5,
+                "fats": 0.15
+            },
+            "mitad": {
+                "calorie": 44.5,
+                "protein": 0.55,
+                "carbs": 11.5,
+                "fats": 0.15
+            }
+        }
+    },
+    {
+        "name": "Manzana Verde",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 52,
+                "protein": 0.3,
+                "carbs": 14,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 5.2,
+                "protein": 0.03,
+                "carbs": 1.4,
+                "fats": 0.02
+            },
+            "trozo": {
+                "calorie": 26,
+                "protein": 0.15,
+                "carbs": 7,
+                "fats": 0.1
+            },
+            "mitad": {
+                "calorie": 26,
+                "protein": 0.15,
+                "carbs": 7,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Pechuga de Pavo",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 189,
+                "protein": 29,
+                "carbs": 0,
+                "fats": 7
+            },
+            "tajada": {
+                "calorie": 94.5,
+                "protein": 14.5,
+                "carbs": 0,
+                "fats": 3.5
+            },
+            "trozo": {
+                "calorie": 47.25,
+                "protein": 7.25,
+                "carbs": 0,
+                "fats": 1.75
+            },
+            "porción": {
+                "calorie": 23.625,
+                "protein": 3.625,
+                "carbs": 0,
+                "fats": 0.875
+            }
+        }
+    },
+    {
+        "name": "Camarones Frescos",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 99,
+                "protein": 24,
+                "carbs": 0.2,
+                "fats": 0.3
+            },
+            "puñado": {
+                "calorie": 49.5,
+                "protein": 12,
+                "carbs": 0.1,
+                "fats": 0.15
+            },
+            "taza": {
+                "calorie": 198,
+                "protein": 48,
+                "carbs": 0.4,
+                "fats": 0.6
+            },
+            "porción": {
+                "calorie": 99,
+                "protein": 24,
+                "carbs": 0.2,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Ajo Crudo",
+        "category": "Verduras",
+        "measurementUnits": {
+            "diente": {
+                "calorie": 149,
+                "protein": 6.4,
+                "carbs": 33,
+                "fats": 0.5
+            },
+            "cucharada picada": {
+                "calorie": 14.9,
+                "protein": 0.64,
+                "carbs": 3.3,
+                "fats": 0.05
+            },
+            "cabeza": {
+                "calorie": 298,
+                "protein": 12.8,
+                "carbs": 66,
+                "fats": 1
+            },
+            "trozo": {
+                "calorie": 74.5,
+                "protein": 3.2,
+                "carbs": 16.5,
+                "fats": 0.25
+            }
+        }
+    },
+    {
+        "name": "Cebolla Cruda",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 40,
+                "protein": 1.1,
+                "carbs": 9,
+                "fats": 0.1
+            },
+            "rodaja": {
+                "calorie": 4,
+                "protein": 0.11,
+                "carbs": 0.9,
+                "fats": 0.01
+            },
+            "trozo picado": {
+                "calorie": 20,
+                "protein": 0.55,
+                "carbs": 4.5,
+                "fats": 0.05
+            },
+            "cucharada": {
+                "calorie": 5,
+                "protein": 0.1375,
+                "carbs": 1.125,
+                "fats": 0.0125
+            }
+        }
+    },
+    {
+        "name": "Lechuga Fresca",
+        "category": "Verduras",
+        "measurementUnits": {
+            "hoja": {
+                "calorie": 1,
+                "protein": 0.14,
+                "carbs": 0.29,
+                "fats": 0.02
+            },
+            "taza picada": {
+                "calorie": 3,
+                "protein": 0.42,
+                "carbs": 0.87,
+                "fats": 0.06
+            },
+            "cabeza": {
+                "calorie": 45,
+                "protein": 4.2,
+                "carbs": 8.7,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Col Cruda",
+        "category": "Verduras",
+        "measurementUnits": {
+            "hoja": {
+                "calorie": 2.5,
+                "protein": 0.13,
+                "carbs": 0.6,
+                "fats": 0.01
+            },
+            "taza rallada": {
+                "calorie": 5,
+                "protein": 0.26,
+                "carbs": 1.2,
+                "fats": 0.02
+            },
+            "cuarto de cabeza": {
+                "calorie": 62.5,
+                "protein": 3.25,
+                "carbs": 15,
+                "fats": 0.25
+            }
+        }
+    },
+    {
+        "name": "Pimiento Rojo",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 31,
+                "protein": 1,
+                "carbs": 6,
+                "fats": 0.3
+            },
+            "taza picada": {
+                "calorie": 15.5,
+                "protein": 0.5,
+                "carbs": 3,
+                "fats": 0.15
+            },
+            "tiras": {
+                "calorie": 7.75,
+                "protein": 0.25,
+                "carbs": 1.5,
+                "fats": 0.075
+            },
+            "trozo": {
+                "calorie": 3.875,
+                "protein": 0.125,
+                "carbs": 0.75,
+                "fats": 0.0375
+            }
+        }
+    },
+    {
+        "name": "Pepino",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 16,
+                "protein": 0.7,
+                "carbs": 3.6,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 0.8,
+                "protein": 0.035,
+                "carbs": 0.18,
+                "fats": 0.01
+            },
+            "mitad": {
+                "calorie": 8,
+                "protein": 0.35,
+                "carbs": 1.8,
+                "fats": 0.1
+            },
+            "trozo": {
+                "calorie": 4,
+                "protein": 0.175,
+                "carbs": 0.9,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Berenjena",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 25,
+                "protein": 1,
+                "carbs": 6,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 2.5,
+                "protein": 0.1,
+                "carbs": 0.6,
+                "fats": 0.02
+            },
+            "mitad": {
+                "calorie": 12.5,
+                "protein": 0.5,
+                "carbs": 3,
+                "fats": 0.1
+            },
+            "trozo": {
+                "calorie": 6.25,
+                "protein": 0.25,
+                "carbs": 1.5,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Espárragos",
+        "category": "Verduras",
+        "measurementUnits": {
+            "tallo": {
+                "calorie": 2,
+                "protein": 0.22,
+                "carbs": 0.39,
+                "fats": 0.01
+            },
+            "manojo": {
+                "calorie": 40,
+                "protein": 4.4,
+                "carbs": 7.8,
+                "fats": 0.2
+            },
+            "taza cortada": {
+                "calorie": 20,
+                "protein": 2.2,
+                "carbs": 3.9,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Remolacha",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 43,
+                "protein": 1.6,
+                "carbs": 10,
+                "fats": 0.2
+            },
+            "rodaja": {
+                "calorie": 4.3,
+                "protein": 0.16,
+                "carbs": 1,
+                "fats": 0.02
+            },
+            "taza rallada": {
+                "calorie": 21.5,
+                "protein": 0.8,
+                "carbs": 5,
+                "fats": 0.1
+            }
+        }
+    },
+    {
+        "name": "Calabaza",
+        "category": "Verduras",
+        "measurementUnits": {
+            "rodaja": {
+                "calorie": 5.2,
+                "protein": 0.2,
+                "carbs": 1.3,
+                "fats": 0.02
+            },
+            "taza en cubos": {
+                "calorie": 13,
+                "protein": 0.5,
+                "carbs": 3.25,
+                "fats": 0.05
+            },
+            "trozo": {
+                "calorie": 6.5,
+                "protein": 0.25,
+                "carbs": 1.625,
+                "fats": 0.025
+            }
+        }
+    },
+    {
+        "name": "Champiñones",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 2.2,
+                "protein": 0.31,
+                "carbs": 0.33,
+                "fats": 0.03
+            },
+            "taza picada": {
+                "calorie": 11,
+                "protein": 1.55,
+                "carbs": 1.65,
+                "fats": 0.15
+            },
+            "bandeja": {
+                "calorie": 44,
+                "protein": 6.2,
+                "carbs": 6.6,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Acelga",
+        "category": "Verduras",
+        "measurementUnits": {
+            "hoja": {
+                "calorie": 1.9,
+                "protein": 0.18,
+                "carbs": 0.37,
+                "fats": 0.02
+            },
+            "taza picada": {
+                "calorie": 3.8,
+                "protein": 0.36,
+                "carbs": 0.74,
+                "fats": 0.04
+            },
+            "manojo": {
+                "calorie": 38,
+                "protein": 3.6,
+                "carbs": 7.4,
+                "fats": 0.4
+            }
+        }
+    },
+    {
+        "name": "Rúcula",
+        "category": "Verduras",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 5,
+                "protein": 0.52,
+                "carbs": 0.74,
+                "fats": 0.14
+            },
+            "taza": {
+                "calorie": 10,
+                "protein": 1.04,
+                "carbs": 1.48,
+                "fats": 0.28
+            },
+            "bol": {
+                "calorie": 20,
+                "protein": 2.08,
+                "carbs": 2.96,
+                "fats": 0.56
+            }
+        }
+    },
+    {
+        "name": "Guisantes",
+        "category": "Verduras",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 81,
+                "protein": 5.4,
+                "carbs": 14.5,
+                "fats": 0.4
+            },
+            "vaina": {
+                "calorie": 16.2,
+                "protein": 1.08,
+                "carbs": 2.9,
+                "fats": 0.08
+            },
+            "puñado": {
+                "calorie": 40.5,
+                "protein": 2.7,
+                "carbs": 7.25,
+                "fats": 0.2
+            }
+        }
+    },
+    {
+        "name": "Maíz",
+        "category": "Verduras",
+        "measurementUnits": {
+            "mazorca": {
+                "calorie": 86,
+                "protein": 3.2,
+                "carbs": 19,
+                "fats": 1.2
+            },
+            "taza de granos": {
+                "calorie": 86,
+                "protein": 3.2,
+                "carbs": 19,
+                "fats": 1.2
+            },
+            "puñado": {
+                "calorie": 43,
+                "protein": 1.6,
+                "carbs": 9.5,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Coliflor",
+        "category": "Verduras",
+        "measurementUnits": {
+            "ramillete": {
+                "calorie": 12.5,
+                "protein": 0.95,
+                "carbs": 2.5,
+                "fats": 0.15
+            },
+            "taza picada": {
+                "calorie": 25,
+                "protein": 1.9,
+                "carbs": 5,
+                "fats": 0.3
+            },
+            "cabeza pequeña": {
+                "calorie": 50,
+                "protein": 3.8,
+                "carbs": 10,
+                "fats": 0.6
+            }
+        }
+    },
+    {
+        "name": "Rábano",
+        "category": "Verduras",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 1.6,
+                "protein": 0.07,
+                "carbs": 0.34,
+                "fats": 0.01
+            },
+            "taza en rodajas": {
+                "calorie": 16,
+                "protein": 0.7,
+                "carbs": 3.4,
+                "fats": 0.1
+            },
+            "manojo": {
+                "calorie": 48,
+                "protein": 2.1,
+                "carbs": 10.2,
+                "fats": 0.3
+            }
+        }
+    },
+    {
+        "name": "Lentejas Rojas",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza": {
+                "calorie": 116,
+                "protein": 9,
+                "carbs": 20,
+                "fats": 0.4
+            },
+            "puñado": {
+                "calorie": 58,
+                "protein": 4.5,
+                "carbs": 10,
+                "fats": 0.2
+            },
+            "cucharada": {
+                "calorie": 14.5,
+                "protein": 1.125,
+                "carbs": 2.5,
+                "fats": 0.05
+            }
+        }
+    },
+    {
+        "name": "Arroz Integral Cocido",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "taza cocida": {
+                "calorie": 110,
+                "protein": 2.6,
+                "carbs": 23,
+                "fats": 0.9
+            },
+            "puñado": {
+                "calorie": 55,
+                "protein": 1.3,
+                "carbs": 11.5,
+                "fats": 0.45
+            },
+            "cucharada": {
+                "calorie": 13.75,
+                "protein": 0.325,
+                "carbs": 2.875,
+                "fats": 0.1125
+            }
+        }
+    },
+    {
+        "name": "Pan de Centeno",
+        "category": "Carbohidratos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 259,
+                "protein": 9.1,
+                "carbs": 48,
+                "fats": 3.3
+            },
+            "rodaja": {
+                "calorie": 129.5,
+                "protein": 4.55,
+                "carbs": 24,
+                "fats": 1.65
+            },
+            "trozo": {
+                "calorie": 64.75,
+                "protein": 2.275,
+                "carbs": 12,
+                "fats": 0.825
+            }
+        }
+    },
+    {
+        "name": "Queso de Cabra",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "rebanada": {
+                "calorie": 364,
+                "protein": 22,
+                "carbs": 3,
+                "fats": 30
+            },
+            "trozo": {
+                "calorie": 182,
+                "protein": 11,
+                "carbs": 1.5,
+                "fats": 15
+            },
+            "cubito": {
+                "calorie": 91,
+                "protein": 5.5,
+                "carbs": 0.75,
+                "fats": 7.5
+            }
+        }
+    },
+    {
+        "name": "Tofu Sedoso",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "bloque": {
+                "calorie": 61,
+                "protein": 6.9,
+                "carbs": 1.6,
+                "fats": 3.4
+            },
+            "cucharada": {
+                "calorie": 15.25,
+                "protein": 1.725,
+                "carbs": 0.4,
+                "fats": 0.85
+            },
+            "trozo": {
+                "calorie": 30.5,
+                "protein": 3.45,
+                "carbs": 0.8,
+                "fats": 1.7
+            }
+        }
+    },
+    {
+        "name": "Pollo a la Parrilla",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "pechuga": {
+                "calorie": 150,
+                "protein": 30,
+                "carbs": 0,
+                "fats": 3.5
+            },
+            "muslo": {
+                "calorie": 120,
+                "protein": 24,
+                "carbs": 0,
+                "fats": 2.8
+            },
+            "ala": {
+                "calorie": 90,
+                "protein": 18,
+                "carbs": 0,
+                "fats": 2.1
+            },
+            "trozo": {
+                "calorie": 75,
+                "protein": 15,
+                "carbs": 0,
+                "fats": 1.75
+            }
+        }
+    },
+    {
+        "name": "Filete de Tilapia",
+        "category": "Proteinas",
+        "measurementUnits": {
+            "filete": {
+                "calorie": 128,
+                "protein": 26,
+                "carbs": 0,
+                "fats": 2.7
+            },
+            "tajada": {
+                "calorie": 96,
+                "protein": 19.5,
+                "carbs": 0,
+                "fats": 2.025
+            },
+            "trozo": {
+                "calorie": 64,
+                "protein": 13,
+                "carbs": 0,
+                "fats": 1.35
+            }
+        }
+    },
+    {
+        "name": "Aceite de Oliva",
+        "category": "Grasas",
+        "measurementUnits": {
+            "cucharada": {
+                "calorie": 119,
+                "protein": 0,
+                "carbs": 0,
+                "fats": 13.5
+            },
+            "cucharadita": {
+                "calorie": 40,
+                "protein": 0,
+                "carbs": 0,
+                "fats": 4.5
+            },
+            "botella": {
+                "calorie": 7104,
+                "protein": 0,
+                "carbs": 0,
+                "fats": 800
+            }
+        }
+    },
+    {
+        "name": "Semillas de Calabaza",
+        "category": "Grasas",
+        "measurementUnits": {
+            "puñado": {
+                "calorie": 223,
+                "protein": 9.5,
+                "carbs": 27,
+                "fats": 9.5
+            },
+            "cucharada": {
+                "calorie": 55.75,
+                "protein": 2.375,
+                "carbs": 6.75,
+                "fats": 2.375
+            },
+            "taza": {
+                "calorie": 892,
+                "protein": 38,
+                "carbs": 108,
+                "fats": 38
+            }
+        }
+    },
+    {
+        "name": "Yogurt Griego",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 118,
+                "protein": 20,
+                "carbs": 7.2,
+                "fats": 0.8
+            },
+            "pote": {
+                "calorie": 236,
+                "protein": 40,
+                "carbs": 14.4,
+                "fats": 1.6
+            },
+            "cucharada": {
+                "calorie": 14.75,
+                "protein": 2.5,
+                "carbs": 0.9,
+                "fats": 0.1
+            },
+            "bol": {
+                "calorie": 177,
+                "protein": 30,
+                "carbs": 10.8,
+                "fats": 1.2
+            }
+        }
+    },
+    {
+        "name": "Leche de Avena",
+        "category": "Bebidas y Lácteos",
+        "measurementUnits": {
+            "vaso": {
+                "calorie": 40,
+                "protein": 1.5,
+                "carbs": 6.7,
+                "fats": 0.9
+            },
+            "taza": {
+                "calorie": 80,
+                "protein": 3,
+                "carbs": 13.4,
+                "fats": 1.8
+            },
+            "botella": {
+                "calorie": 320,
+                "protein": 12,
+                "carbs": 53.6,
+                "fats": 7.2
+            },
+            "cucharada": {
+                "calorie": 10,
+                "protein": 0.375,
+                "carbs": 1.675,
+                "fats": 0.225
+            }
+        }
+    },
+    {
+        "name": "Melocotón",
+        "category": "Frutas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 39,
+                "protein": 0.9,
+                "carbs": 10,
+                "fats": 0.3
+            },
+            "rodaja": {
+                "calorie": 19.5,
+                "protein": 0.45,
+                "carbs": 5,
+                "fats": 0.15
+            },
+            "mitad": {
+                "calorie": 19.5,
+                "protein": 0.45,
+                "carbs": 5,
+                "fats": 0.15
+            },
+            "trozo": {
+                "calorie": 9.75,
+                "protein": 0.225,
+                "carbs": 2.5,
+                "fats": 0.075
+            }
+        }
+    },
+    {
+        "name": "Nuez de Brasil",
+        "category": "Grasas",
+        "measurementUnits": {
+            "unidad": {
+                "calorie": 656,
+                "protein": 14,
+                "carbs": 12,
+                "fats": 66
+            },
+            "puñado": {
+                "calorie": 328,
+                "protein": 7,
+                "carbs": 6,
+                "fats": 33
+            },
+            "cucharada": {
+                "calorie": 82,
+                "protein": 1.75,
+                "carbs": 1.5,
+                "fats": 8.25
+            },
+            "taza": {
+                "calorie": 1312,
+                "protein": 28,
+                "carbs": 24,
+                "fats": 132
+            }
+        }
+    }
+]
