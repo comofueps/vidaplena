@@ -1,0 +1,93 @@
+[
+  {
+    "nombre": "Rutina de cuerpo completo",
+    "ejercicios": [
+      { "nombre": "Sentadillas", "repeticiones": 12, "series": 3 },
+      { "nombre": "Flexiones de pecho", "repeticiones": 10, "series": 3 },
+      { "nombre": "Peso muerto", "repeticiones": 10, "series": 3 },
+      { "nombre": "Fondos en paralelas", "repeticiones": 10, "series": 3 },
+      { "nombre": "Plancha", "duracion": 30, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de fuerza para piernas",
+    "ejercicios": [
+      { "nombre": "Sentadillas con barra", "repeticiones": 8, "series": 4 },
+      { "nombre": "Prensa de piernas", "repeticiones": 10, "series": 4 },
+      { "nombre": "Extensiones de cuádriceps", "repeticiones": 12, "series": 3 },
+      { "nombre": "Curl de piernas acostado", "repeticiones": 12, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de ejercicios cardiovasculares",
+    "ejercicios": [
+      { "nombre": "Correr en cinta", "duracion": 30 },
+      { "nombre": "Saltos de cuerda", "duracion": 60, "series": 3 },
+      { "nombre": "Burpees", "repeticiones": 10, "series": 3 },
+      { "nombre": "Escaladores", "repeticiones": 20, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de espalda y bíceps",
+    "ejercicios": [
+      { "nombre": "Dominadas", "repeticiones": 8, "series": 4 },
+      { "nombre": "Remo con barra", "repeticiones": 10, "series": 3 },
+      { "nombre": "Curl de bíceps con mancuernas", "repeticiones": 12, "series": 3 },
+      { "nombre": "Peso muerto con mancuernas", "repeticiones": 10, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de ejercicios para abdominales",
+    "ejercicios": [
+      { "nombre": "Crunches", "repeticiones": 15, "series": 3 },
+      { "nombre": "Elevaciones de piernas en barra fija", "repeticiones": 12, "series": 3 },
+      { "nombre": "Plancha lateral", "duracion": 30, "series": 3 },
+      { "nombre": "Giros rusos", "repeticiones": 20, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de entrenamiento funcional",
+    "ejercicios": [
+      { "nombre": "Peso muerto sumo con kettlebell", "repeticiones": 10, "series": 3 },
+      { "nombre": "Flexiones de piernas en TRX", "repeticiones": 12, "series": 3 },
+      { "nombre": "Push press con mancuernas", "repeticiones": 10, "series": 3 },
+      { "nombre": "Plancha con rotación", "repeticiones": 12, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de ejercicios para brazos",
+    "ejercicios": [
+      { "nombre": "Press de banca", "repeticiones": 8, "series": 4 },
+      { "nombre": "Fondos en máquina de dips", "repeticiones": 10, "series": 3 },
+      { "nombre": "Curl de bíceps con barra Z", "repeticiones": 10, "series": 3 },
+      { "nombre": "Press francés", "repeticiones": 12, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de estiramientos y flexibilidad",
+    "ejercicios": [
+      { "nombre": "Estiramiento de cuádriceps", "duracion": 30, "series": 3 },
+      { "nombre": "Estiramiento de isquiotibiales", "duracion": 30, "series": 3 },
+      { "nombre": "Estiramiento de espalda", "duracion": 30, "series": 3 },
+      { "nombre": "Estiramiento de hombros", "duracion": 30, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de ejercicios para mejorar la postura",
+    "ejercicios": [
+      { "nombre": "Pájaros", "repeticiones": 15, "series": 3 },
+      { "nombre": "Retracciones de hombros", "repeticiones": 12, "series": 3 },
+      { "nombre": "Plancha invertida", "duracion": 30, "series": 3 },
+      { "nombre": "Elevaciones laterales con mancuernas", "repeticiones": 12, "series": 3 }
+    ]
+  },
+  {
+    "nombre": "Rutina de entrenamiento para principiantes",
+    "ejercicios": [
+      { "nombre": "Flexiones de rodillas", "repeticiones": 10, "series": 3 },
+      { "nombre": "Sentadillas con apoyo", "repeticiones": 12, "series": 3 },
+      { "nombre": "Plancha de rodillas", "duracion": 20, "series": 3 },
+      { "nombre": "Curl de bíceps con banda elástica", "repeticiones": 12, "series": 3 }
+    ]
+  }
+]
