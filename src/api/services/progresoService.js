@@ -243,21 +243,6 @@ export const crearProgreso = async (peso, altura, userId, date) => {
       dateOnly = formattedDate.slice(0, 10);
     }
 
-    // // Obtener la fecha actual y ajustar la zona horaria
-    // const currentDate = new Date();
-    // const offset = currentDate.getTimezoneOffset();
-    // currentDate.setMinutes(currentDate.getMinutes() - offset);
-
-    // // Establecer las horas, minutos, segundos y milisegundos a 00:00:00.000
-    // currentDate.setUTCHours(0, 0, 0, 0);
-
-    // // Convertir la fecha al formato ISO
-    // const formattedDate = currentDate.toISOString();
-
-    // // Obtener solo la parte de fecha (sin la hora y la zona horaria)
-
-    // const dateOnly = formattedDate.slice(0, 10);
-
     // Encontrar el objeto de progreso con la fecha buscada
     const progresoEncontradoIndex = user.progress.findIndex(
       (progreso) => progreso.fecha === dateOnly

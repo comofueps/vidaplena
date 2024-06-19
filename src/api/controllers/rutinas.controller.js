@@ -5,7 +5,6 @@ import { calcularCaloriasQuemadas } from "../services/progresoService.js";
 export const createRutinaToUser = async (req, res) => {
   try {
     const { userId, rutina, date } = req.body;
-
     const user = await User.findOne({ userId: userId });
 
     if (!user) {
@@ -21,7 +20,7 @@ export const createRutinaToUser = async (req, res) => {
     const rutinaNueva = {
       userId: userId,
       rutina: rutina,
-      date: date,
+      fecha: date,
     };
 
     const rutinaAdd = user.rutinas.push(rutinaNueva);
@@ -120,5 +119,60 @@ export const getRutinasByUser = async (req, res) => {
     res.status(201).json(user);
   } catch (error) {
     res.status(500).json(error.message);
+  }
+};
+
+export const getRutinasByUserAndDate = async (req, res) => {
+  try {
+    const { userId, fecha } = req.params;
+
+    // Imprimir la fecha y el userId para depuración
+    console.log(`Fecha recibida: ${fecha}`);
+    console.log(`Usuario ID recibido: ${userId}`);
+
+    // Verificar que la fecha es válida
+    const fechaFiltro = new Date(fecha);
+    if (isNaN(fechaFiltro.getTime())) {
+      return res.status(400).json({ mensaje: "Formato de fecha inválido" });
+    }
+
+    const user = await User.findOne(
+      { userId: userId },
+      "name apellido lastname goal rutinas"
+    ).populate({
+      path: "rutinas.rutina",
+      model: "Rutina",
+    });
+
+    if (!user) {
+      return res.status(404).json("Usuario no encontrado");
+    }
+
+    // Depurar estructura de los datos de rutinas
+    console.log("Estructura de rutinas:", user.rutinas);
+
+    // Filtrar las rutinas por fecha y estado completada
+    const rutinasFiltradas = user.rutinas.filter((r) => {
+      if (!r.fecha) {
+        console.warn(`Rutina sin fecha: ${r}`);
+        return false;
+      }
+      const rutinaFecha = new Date(r.fecha);
+      return (
+        rutinaFecha.toISOString().split("T")[0] ===
+          fechaFiltro.toISOString().split("T")[0] && r.estado === "Completada"
+      );
+    });
+
+    res.status(200).json({
+      userId: user.userId,
+      name: user.name,
+      apellido: user.apellido,
+      lastname: user.lastname,
+      goal: user.goal,
+      rutinas: rutinasFiltradas,
+    });
+  } catch (error) {
+    res.status(500).json({ mensaje: error.message, error: error.name });
   }
 };

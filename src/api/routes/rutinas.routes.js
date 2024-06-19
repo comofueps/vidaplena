@@ -4,6 +4,7 @@ import {
   createRutinaToUser,
   getRutinas,
   getRutinasByUser,
+  getRutinasByUserAndDate,
   updateEstadoRutina,
 } from "../controllers/rutinas.controller.js";
 
@@ -14,5 +15,6 @@ router.get("/rutinas", getRutinas);
 router.get("/rutinas-user/:userId", getRutinasByUser);
 router.patch("/update-estado", updateEstadoRutina);
 router.post("/create-rutinas", createRutina);
+router.get("/rutinas-completadas/:userId/:fecha", getRutinasByUserAndDate);
 
 export default router;

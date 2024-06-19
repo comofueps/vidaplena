@@ -91,7 +91,7 @@ export const createUser = async (req, res) => {
         { new: true }
       );
 
-      await crearProgreso(weight, height, userId);
+      const progress = await crearProgreso(weight, height, userId);
       usuario.progress = progress;
 
       res.status(200).json({
@@ -140,10 +140,12 @@ export const getProgressFromUser = async (req, res) => {
     if (fecha) {
       progreso = user.progress.find((progress) => progress.fecha === fecha);
     } else {
-      progreso = user.progress;
+      progreso = user.progress.sort(
+        (a, b) => new Date(b.fecha) - new Date(a.fecha)
+      );
     }
 
-    if (!progreso) {
+    if (!progreso || (Array.isArray(progreso) && progreso.length === 0)) {
       return res.status(404).json("No se encontró progreso.");
     }
 
