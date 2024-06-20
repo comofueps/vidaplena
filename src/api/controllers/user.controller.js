@@ -57,6 +57,7 @@ export const updateUser = async (req, res) => {
           peso: peso,
           nivel_peso: nivel_peso,
           fecha: progreso.fecha,
+          dream: progreso.dream,
           calorias_consumidas: progreso.calorias_consumidas || 0,
           calorias_quemadas: progreso.calorias_quemadas || 0,
           balance_calorico: progreso.balance_calorico || 0,
@@ -91,8 +92,8 @@ export const createUser = async (req, res) => {
         { new: true }
       );
 
-      const progress = await crearProgreso(weight, height, userId);
-      usuario.progress = progress;
+      const { progresoCreado } = await crearProgreso(weight, height, userId);
+      usuario.progress = progresoCreado;
 
       res.status(200).json({
         success: true,
@@ -103,8 +104,8 @@ export const createUser = async (req, res) => {
       // Crear un nuevo usuario
       usuario = new User(req.body);
       await usuario.save();
-      const progress = await crearProgreso(weight, height, userId);
-      usuario.progress = progress;
+      const { progresoCreado } = await crearProgreso(weight, height, userId);
+      usuario.progress = progresoCreado;
       res.status(201).json({
         success: true,
         message: "Usuario creado con éxito.",

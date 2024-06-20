@@ -231,17 +231,20 @@ export const crearProgreso = async (peso, altura, userId, date) => {
     const { imc, nivel_peso } = await calcularImc(peso, altura);
 
     // Si se proporciona una fecha, usarla; de lo contrario, usar la fecha actual
-    let dateOnly;
-    if (date) {
-      dateOnly = new Date(date).toISOString().slice(0, 10);
-    } else {
-      const currentDate = new Date();
-      const offset = currentDate.getTimezoneOffset();
-      currentDate.setMinutes(currentDate.getMinutes() - offset);
-      currentDate.setUTCHours(0, 0, 0, 0);
-      const formattedDate = currentDate.toISOString();
-      dateOnly = formattedDate.slice(0, 10);
-    }
+    const dateOnly = date
+      ? new Date(date).toISOString().slice(0, 10)
+      : new Date().toISOString().slice(0, 10);
+    // let dateOnly;
+    // if (date) {
+    //   dateOnly = new Date(date).toISOString().slice(0, 10);
+    // } else {
+    //   const currentDate = new Date();
+    //   const offset = currentDate.getTimezoneOffset();
+    //   currentDate.setMinutes(currentDate.getMinutes() - offset);
+    //   currentDate.setUTCHours(0, 0, 0, 0);
+    //   const formattedDate = currentDate.toISOString();
+    //   dateOnly = formattedDate.slice(0, 10);
+    // }
 
     // Encontrar el objeto de progreso con la fecha buscada
     const progresoEncontradoIndex = user.progress.findIndex(
@@ -253,21 +256,23 @@ export const crearProgreso = async (peso, altura, userId, date) => {
       peso: peso,
       nivel_peso: nivel_peso,
       fecha: dateOnly,
+      dream: [],
     };
 
     if (progresoEncontradoIndex !== -1) {
       // Actualizar el progreso encontrado con los nuevos valores
       user.progress[progresoEncontradoIndex] = newProgress;
-      console.log("Se actualizó el progreso para la fecha", dateOnly + ":");
-      console.log(user.progress[progresoEncontradoIndex]);
+      // console.log("Se actualizó el progreso para la fecha", dateOnly + ":");
+      // console.log(user.progress[progresoEncontradoIndex]);
       // Guardar los cambios en la base de datos
       await user.save();
     } else {
       user.progress.push(newProgress);
       await user.save();
-      console.log("No se encontró ningún progreso para la fecha", dateOnly);
+      // console.log("No se encontró ningún progreso para la fecha", dateOnly);
     }
-    return user.progress;
+    const progresoCreado = user.progress;
+    return { progresoCreado };
   } catch (error) {
     return error.message;
   }
@@ -294,6 +299,7 @@ export const updateProgreso = async (userId, fecha, nuevoProgreso) => {
       user.progress.push(nuevoProgreso);
     }
     // Guarda los cambios en la base de datos
+    console.log("El progreso en el servicio es: " + user.progress);
     await user.save();
     return "Progreso actualizado con éxito";
   } catch (error) {

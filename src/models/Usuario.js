@@ -1,6 +1,21 @@
 import mongoose from "mongoose";
 
 // Definir el esquema de progreso
+
+const dreamSchema = new mongoose.Schema(
+  {
+    quality: {
+      type: String,
+      enum: ["Bueno", "Regular", "Malo"],
+      required: true,
+    },
+    startTime: { type: Date, required: true },
+    endTime: { type: Date, required: true },
+    timeToFallAsleep: { type: Number, required: true }, // tiempo en conciliar el sueño
+  },
+  { _id: false }
+);
+
 const progressSchema = new mongoose.Schema(
   {
     imc: { type: Number },
@@ -17,6 +32,7 @@ const progressSchema = new mongoose.Schema(
       ],
       required: true,
     },
+    dream: [dreamSchema],
     fecha: { type: String, index: true, unique: true },
     calorias_quemadas: { type: Number },
     calorias_consumidas: { type: Number },
