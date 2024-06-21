@@ -158,6 +158,131 @@ export const getProgressFromUser = async (req, res) => {
   }
 };
 
+export const getUsersWithoutProgress = async (req, res) => {
+  try {
+    // Obtener la fecha y hora actuales en la zona horaria local
+    const now = new Date(Date.now());
+
+    // Convertir la fecha y hora a una cadena en formato ISO con la misma zona horaria
+    const localISOTime = new Date(
+      now.getTime() - now.getTimezoneOffset() * 60000
+    ).toISOString();
+
+    const dateOnly = localISOTime.slice(0, 10);
+
+    const users = await User.find();
+
+    // Procesar usuarios
+    const processedUsers = users.map((user) => {
+      // devuelve true si tiene progreso en la fecha dada
+      const hasProgressOnDate = user.progress.some(
+        (progress) => progress.fecha === dateOnly
+      );
+
+      const progressOnDate =
+        user.progress.find((progress) => progress.fecha === dateOnly) || {};
+      const comidas = progressOnDate.calorias_consumidas > 0;
+      const rutinas = progressOnDate.calorias_quemadas > 0;
+      const progreso = hasProgressOnDate;
+
+      return {
+        userId: user.userId,
+        name: user.name,
+        lastname: user.lastname,
+        gender: user.gender,
+        comidas: comidas,
+        rutinas: rutinas,
+        progreso: progreso,
+      };
+    });
+
+    // Filtrar usuarios según las condiciones
+    // const usersWithoutProgress = processedUsers.filter(
+    //   (user) => !user.progreso
+    // );
+
+    // Devolver la lista de usuarios procesados
+    return res.status(200).json({
+      mensaje: "Usuarios procesados",
+      usuarios: processedUsers,
+    });
+  } catch (error) {
+    return res.status(500).json({
+      mensaje: "Error al procesar la solicitud",
+      error: error.message,
+      nombre: error.name,
+    });
+  }
+};
+
+// export const getUsersWithoutProgress = async (req, res) => {
+//   const givenDate = "2024-06-21";
+//   User.aggregate([
+//     {
+//       $addFields: {
+//         dailyFoodsOnlyDate: {
+//           $map: {
+//             input: "$dailyFoods",
+//             as: "df",
+//             in: {
+//               date: {
+//                 $dateToString: { format: "%Y-%m-%d", date: "$$df.date" },
+//               },
+//             },
+//           },
+//         },
+//         progressOnlyDate: {
+//           $map: {
+//             input: "$progress",
+//             as: "pr",
+//             in: {
+//               fecha: {
+//                 $dateToString: {
+//                   format: "%Y-%m-%d",
+//                   date: { $toDate: "$$pr.fecha" },
+//                 },
+//               },
+//             },
+//           },
+//         },
+//         rutinasOnlyDate: {
+//           $map: {
+//             input: "$rutinas",
+//             as: "rt",
+//             in: {
+//               fecha: {
+//                 $dateToString: { format: "%Y-%m-%d", date: "$$rt.fecha" },
+//               },
+//             },
+//           },
+//         },
+//       },
+//     },
+//     {
+//       $match: {
+//         $or: [
+//           {
+//             dailyFoodsOnlyDate: { $not: { $elemMatch: { date: givenDate } } },
+//           },
+//           {
+//             progressOnlyDate: { $not: { $elemMatch: { fecha: givenDate } } },
+//           },
+//           {
+//             rutinasOnlyDate: { $not: { $elemMatch: { fecha: givenDate } } },
+//           },
+//         ],
+//       },
+//     },
+//   ])
+//     .then((users) => {
+//       console.log("Usuarios sin registros en la fecha dada:", users);
+//       res.status(201).json(users);
+//     })
+//     .catch((error) => {
+//       console.error("Error al obtener los usuarios:", error);
+//     });
+// };
+
 export const getCompanions = async (req, res) => {
   try {
     const { userId } = req.params;
