@@ -193,6 +193,7 @@ export const getUsersWithoutProgress = async (req, res) => {
         comidas: comidas,
         rutinas: rutinas,
         progreso: progreso,
+        fmcToken: user.fcmToken,
       };
     });
 
